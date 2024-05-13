@@ -1,0 +1,1001 @@
+company_name,ratings,reviews,company_type,Employee,Headquarters
+TCS,3.8,76.4k,IT Services & Consulting,1 Lakh+ Employees,Mumbai +350 more
+Accenture,4.0,48.3k,IT Services & Consulting,1 Lakh+ Employees,Dublin +182 more
+Cognizant,3.9,43.6k,IT Services & Consulting,1 Lakh+ Employees,Teaneck. New Jersey. +169 more
+Wipro,3.8,41k,IT Services & Consulting,1 Lakh+ Employees,Bangalore/Bengaluru +278 more
+Capgemini,3.8,35.5k,IT Services & Consulting,1 Lakh+ Employees,Paris +144 more
+HDFC Bank,4.0,35.1k,Banking,1 Lakh+ Employees,Mumbai +1561 more
+ICICI Bank,4.0,34.7k,Banking,1 Lakh+ Employees,Mumbai +1296 more
+Infosys,3.8,33.3k,IT Services & Consulting,1 Lakh+ Employees,Bengaluru/Bangalore +182 more
+HCLTech,3.7,29.8k,IT Services & Consulting,1 Lakh+ Employees,Noida +183 more
+Tech Mahindra,3.7,28.7k,IT Services & Consulting,1 Lakh+ Employees,Pune +273 more
+Genpact,3.9,27.1k,IT Services & Consulting,1 Lakh+ Employees,New York +112 more
+Axis Bank,3.9,22.7k,Banking,50k-1 Lakh Employees,Mumbai +1318 more
+Teleperformance,3.7,23.4k,BPO,50k-1 Lakh Employees,Paris +191 more
+Concentrix Corporation,3.9,22.5k,BPO,50k-1 Lakh Employees,Fremont +119 more
+Jio,4.0,21.2k,Telecom,50k-1 Lakh Employees,Navi Mumbai +1177 more
+Amazon,4.1,21.5k,Internet,1 Lakh+ Employees,Seattle +456 more
+IBM,4.1,20.4k,IT Services & Consulting,1 Lakh+ Employees,Armonk +149 more
+Reliance Retail,4.0,19.5k,Retail,1 Lakh+ Employees,Navi Mumbai +1013 more
+HDB Financial Services,4.0,18.7k,NBFC,1 Lakh+ Employees,Ahmedabad +962 more
+Larsen & Toubro Limited,4.1,17.2k,Engineering & Construction,10k-50k Employees,Mumbai +629 more
+Vodafone Idea,4.2,15.6k,Telecom,5k-10k Employees,Mumbai +649 more
+BYJU'S,3.1,15.3k,EdTech,10k-50k Employees,Bangalore +307 more
+Kotak Mahindra Bank,3.9,14.8k,Banking,50k-1 Lakh Employees,Mumbai +573 more
+Deloitte,3.9,14.6k,Management Consulting,1 Lakh+ Employees,London +152 more
+Reliance Industries,4.1,14.1k,Oil & Gas,1 Lakh+ Employees,Navi Mumbai +688 more
+iEnergizer,4.7,15.5k,BPO,10k-50k Employees,Noida +30 more
+Bharti Airtel,4.1,12.6k,Telecom,10k-50k Employees,Gurgaon/Gurugram +665 more
+Tata Motors,4.2,10.9k,Automobile,10k-50k Employees,Pune +440 more
+WNS,3.5,10k,BPO,10k-50k Employees,Mumbai +38 more
+Flipkart,4.0,9.6k,Internet,10k-50k Employees,Bangalore +516 more
+IndusInd Bank,3.7,9.6k,Banking,10k-50k Employees,Gurgaon/Gurugram +692 more
+Ernst & Young,3.6,9.4k,Management Consulting,50k-1 Lakh Employees,London +96 more
+AU Small Finance Bank,4.4,8.9k,Banking,10k-50k Employees,Jaipur +409 more
+Mahindra & Mahindra,4.2,9k,Automobile,1 Lakh+ Employees,Mumbai +486 more
+Infosys BPM,3.8,8.6k,BPO,10k-50k Employees,Bangalore/Bengaluru +68 more
+DXC Technology,3.8,8.6k,IT Services & Consulting,10k-50k Employees,Minato +83 more
+IDFC FIRST Bank,4.0,8.7k,Banking,10k-50k Employees,Mumbai +586 more
+Conneqt Business Solutions,3.7,8.2k,BPO,10k-50k Employees,Mumbai +225 more
+LTIMindtree,3.6,8.3k,IT Services & Consulting,50k-1 Lakh Employees,Bangalore / Bengaluru +54 more
+HDFC Life,4.1,8k,Insurance,10k-50k Employees,Mumbai +564 more
+Bajaj Finserv,4.1,7.9k,Financial Services,50k-1 Lakh Employees,Pune +902 more
+Mphasis,3.5,7.3k,IT Services & Consulting,10k-50k Employees,Bangalore/Bengaluru +53 more
+PwC,3.6,7.4k,Management Consulting,10k-50k Employees,London +94 more
+HSBC Group,4.1,7k,Banking,10k-50k Employees,Pune +60 more
+Startek,3.3,7k,BPO,10k-50k Employees,Mumbai +73 more
+Hinduja Global Solutions,4.0,6.8k,IT Services & Consulting,10k-50k Employees,Bangalore/Bengaluru +104 more
+Samsung,4.1,6.8k,Consumer Electronics & Appliances,50k-1 Lakh Employees,Seoul +507 more
+Ericsson,4.3,6.8k,Telecom,10k-50k Employees,Stockholm +151 more
+Maruti Suzuki,4.2,6.8k,Automobile,10k-50k Employees,New Delhi +385 more
+Shriram Finance,4.2,6.7k,NBFC,50k-1 Lakh Employees,Mumbai +971 more
+Asian Paints,4.1,6.6k,Chemicals,5k-10k Employees,Mumbai +447 more
+Yes Bank,3.9,6.6k,Banking,10k-50k Employees,Mumbai +448 more
+Cipla,4.1,6.4k,Pharma,10k-50k Employees,Mumbai +241 more
+Dr. Reddy's,4.2,6.2k,Pharma,10k-50k Employees,Hyderabad/Secunderabad +166 more
+Sutherland Global Services,3.7,6.2k,IT Services & Consulting,10k-50k Employees,Pittsford +57 more
+Paytm,3.5,6.3k,FinTech,10k-50k Employees,Noida +329 more
+Bandhan Bank,3.8,6.3k,Banking,50k-1 Lakh Employees,Kolkata +783 more
+UltraTech Cement,4.2,6.1k,Building Material,10k-50k Employees,Mumbai +439 more
+EXL Service,3.8,6.1k,Analytics & KPO,10k-50k Employees,New York City +46 more
+NTT DATA,4.0,6.1k,IT Services & Consulting,10k-50k Employees,Chiyoda City +60 more
+ICICI Prudential Life Insurance,4.1,5.8k,Insurance,10k-50k Employees,Mumbai +453 more
+Bajaj Finance,4.1,5.8k,NBFC,10k-50k Employees,Pune +773 more
+Jana Small Finance Bank,3.9,5.7k,Banking,10k-50k Employees,Bangalore/Bengaluru +358 more
+Lupin,4.1,5.6k,Pharma,1k-5k Employees,Mumbai +170 more
+Indian Army,4.7,5.2k,Defence & Aerospace,1 Lakh+ Employees,New Delhi +333 more
+HCL Group,3.8,5.5k,IT Services & Consulting,1 Lakh+ Employees,Chennai +76 more
+Quess,4.0,5.7k,BPO,1k-5k Employees,Bangalore +539 more
+Tata Steel,4.2,6.2k,Iron & Steel,1 Lakh+ Employees,Mumbai +183 more
+L&T Infotech,3.8,5.4k,IT Services & Consulting,10k-50k Employees,Mumbai +86 more
+Wells Fargo,4.0,5.4k,Financial Services,10k-50k Employees,San Francisco +20 more
+Zydus Lifesciences,4.2,5.4k,Pharma,10k-50k Employees,Ahmedabad +155 more
+Delhivery,4.0,5.3k,Logistics,10k-50k Employees,Delhi +634 more
+Amazon Development Centre India,4.2,5.4k,Internet,10k-50k Employees,Hyderabad / Secunderabad +84 more
+L&T Construction,4.1,5.2k,Engineering & Construction,5k-10k Employees,Chennai +362 more
+JPMorgan Chase & Co.,4.1,5.3k,Financial Services,50k-1 Lakh Employees,New York +34 more
+Sun Pharmaceutical Industries,4.1,5.1k,Pharma,10k-50k Employees,Mumbai +210 more
+Hindustan Unilever,4.3,5.1k,FMCG,10k-50k Employees,London +439 more
+FIS,3.9,5.1k,FinTech,10k-50k Employees,Jacksonville +45 more
+ITC,4.0,5k,FMCG,10k-50k Employees,Kolkata +303 more
+Udaan,4.0,4.9k,1k-5k Employees,Indian Unicorn,Bangalore +340 more
+Hexaware Technologies,3.7,4.9k,IT Services & Consulting,10k-50k Employees,Mumbai +46 more
+IIFL Finance,4.0,4.9k,NBFC,10k-50k Employees,Mumbai +673 more
+JSW Steel,4.0,5k,Iron & Steel,10k-50k Employees,Mumbai +148 more
+Ujjivan Small Finance Bank,4.1,4.7k,Banking,10k-50k Employees,Bangalore/Bengaluru +445 more
+Muthoot Finance,3.6,4.6k,NBFC,10k-50k Employees,Kochi/Cochin +652 more
+Max Life Insurance,4.2,4.6k,Insurance,10k-50k Employees,Gurgaon/Gurugram +401 more
+Tata Projects,4.3,4.6k,Engineering & Construction,5k-10k Employees,Mumbai +239 more
+Aurobindo Pharma,4.0,4.5k,Pharma,10k-50k Employees,Hyderabad/Secunderabad +94 more
+KPMG India,3.6,4.6k,Management Consulting,10k-50k Employees,Bangalore / Bengaluru +75 more
+Shapoorji Pallonji Group,4.2,4.5k,Engineering & Construction,5k-10k Employees,Mumbai +167 more
+Oracle,3.8,4.6k,Software Product,50k-1 Lakh Employees,Austin +47 more
+Home Credit Finance,4.1,4.4k,Financial Services,10k-50k Employees,Gurugram +117 more
+eClerx,3.5,4.4k,IT Services & Consulting,10k-50k Employees,Mumbai +17 more
+Apollo Hospitals,4.2,4.4k,Healthcare,10k-50k Employees,Chennai +191 more
+Ashok Leyland,4.1,4.3k,Automobile,5k-10k Employees,Chennai +218 more
+Omega Healthcare,3.8,4.4k,Healthcare,10k-50k Employees,Florida +47 more
+Siemens,4.2,4.3k,Industrial Automation,5k-10k Employees,Munich +129 more
+JLL,4.2,4.3k,Real Estate,10k-50k Employees,Mumbai +72 more
+Megha Engineering & Infrastructures,4.0,4.4k,Engineering & Construction,5k-10k Employees,Hyderabad/Secunderabad +301 more
+Vivo,4.1,4.2k,Consumer Electronics & Appliances,5k-10k Employees,Gurgaon/Gurugram +376 more
+First Source,3.8,4.2k,BPO,10k-50k Employees,Mumbai +55 more
+JustDial,3.6,4.2k,Internet,10k-50k Employees,Mumbai +182 more
+Bajaj Allianz Life Insurance,4.1,4.2k,Insurance,10k-50k Employees,Pune +510 more
+Hero MotoCorp,4.2,4.1k,Automobile,5k-10k Employees,Gurgaon/Gurugram +320 more
+OPPO,4.0,4.1k,Consumer Electronics & Appliances,10k-50k Employees,Dongguan +363 more
+Mahindra Finance,4.3,4.1k,NBFC,10k-50k Employees,Mumbai +641 more
+DMart,4.0,4k,Retail,10k-50k Employees,Mumbai +213 more
+Standard Chartered,3.9,4.1k,Banking,10k-50k Employees,London +58 more
+Coforge,3.5,4.1k,IT Services & Consulting,10k-50k Employees,Noida +87 more
+Cyient,3.8,4k,IT Services & Consulting,10k-50k Employees,Hyderabad/Secunderabad +35 more
+BigBasket,4.0,4k,Internet,10k-50k Employees,Bangalore +116 more
+ICICI Lombard General Insurance Company,3.8,4k,Insurance,10k-50k Employees,Mumbai +264 more
+Indiamart Intermesh,3.6,4k,Internet,5k-10k Employees,Noida +145 more
+CGI Group,4.1,4k,IT Services & Consulting,10k-50k Employees,Montreal +30 more
+Virtusa Consulting Services,3.8,4k,IT Services & Consulting,10k-50k Employees,Southborough +39 more
+Equitas Small Finance Bank,4.3,3.8k,Banking,10k-50k Employees,Chennai +370 more
+TVS Motor,4.1,3.8k,Automobile,5k-10k Employees,Chennai +283 more
+Manappuram Finance,4.0,3.8k,NBFC,10k-50k Employees,Thrissur/Trichur +516 more
+Ekart Logistics,4.1,4.2k,Logistics,1k-5k Employees,San Francisco +609 more
+GlobalLogic,3.7,3.8k,IT Services & Consulting,10k-50k Employees,San Jose +35 more
+UST,3.9,3.7k,IT Services & Consulting,10k-50k Employees,New Delhi +36 more
+SBI Cards & Payment Services,3.8,3.7k,Financial Services,1k-5k Employees,New Delhi +348 more
+Hewlett Packard Enterprise,4.3,3.7k,IT Services & Consulting,10k-50k Employees,New Delhi +90 more
+Atos Syntel,3.6,3.7k,IT Services & Consulting,5k-10k Employees,Pune +25 more
+Bosch Global Software Technologies,4.1,3.7k,Software Product,10k-50k Employees,New Delhi +31 more
+IQVIA,4.0,3.7k,Clinical Research,10k-50k Employees,New Delhi +45 more
+Nagarro,4.1,3.7k,IT Services & Consulting,10k-50k Employees,New Delhi +42 more
+Cholamandalam Investment & Finance,4.1,3.7k,NBFC,10k-50k Employees,New Delhi +651 more
+SMFG India Credit,4.1,3.6k,NBFC,10k-50k Employees,New Delhi +487 more
+Bosch,4.3,3.6k,Auto Components,5k-10k Employees,New Delhi +103 more
+Reliance Communications,4.0,3.6k,Telecom,201-500 Employees,New Delhi +431 more
+BNY Mellon,4.0,3.6k,Investment Banking / Venture Capital / Private Equity,10k-50k Employees,New Delhi +16 more
+L&T Technology Services,3.4,3.7k,IT Services & Consulting,10k-50k Employees,New Delhi +52 more
+Schneider Electric,4.2,3.6k,Industrial Automation,10k-50k Employees,New Delhi +117 more
+Hyundai Motor India Limited,4.4,3.5k,Automobile,10k-50k Employees,New Delhi +271 more
+Amdocs,4.0,3.5k,Software Product,10k-50k Employees,New Delhi +15 more
+Oyo Rooms,3.4,3.5k,Hospitality,1k-5k Employees,New Delhi +116 more
+Swiggy,3.9,3.5k,Internet,5k-10k Employees,New Delhi +192 more
+CBRE,4.2,3.5k,Real Estate,10k-50k Employees,New Delhi +76 more
+State Bank of India,3.9,3.5k,Banking,1 Lakh+ Employees,New Delhi +494 more
+JBM Group,4.0,3.4k,Auto Components,1k-5k Employees,Gurgaon/Gurugram +87 more
+BT Group,4.1,3.4k,Telecom,10k-50k Employees,London +18 more
+SBI Life Insurance Company,3.9,3.4k,Insurance,10k-50k Employees,Mumbai +534 more
+Optum,4.0,3.4k,Healthcare,10k-50k Employees,Prairie +32 more
+Ecom Express,4.0,3.4k,Logistics,10k-50k Employees,Gurgaon +632 more
+Nagarjuna Construction Company,4.2,3.3k,Engineering & Construction,5k-10k Employees,Hyderabad/Secunderabad +228 more
+Dell,4.2,3.4k,Consumer Electronics & Appliances,10k-50k Employees,Round Rock +102 more
+Bajaj Auto,3.9,3.3k,Automobile,5k-10k Employees,Pune +262 more
+KEC International,4.1,3.3k,Engineering & Construction,5k-10k Employees,Mumbai +266 more
+Future Group,4.3,3.2k,Retail,10k-50k Employees,Mumbai +203 more
+Piramal Capital Housing Finance,4.3,3.3k,NBFC,1k-5k Employees,Mumbai +332 more
+Aditya Birla Fashion and Retail,4.2,3.3k,Fashion & Textile,10k-50k Employees,Mumbai +236 more
+Muthoot Fincorp,4.1,3.2k,NBFC,10k-50k Employees,Trivandrum/Thiruvananthapuram +549 more
+Royal Enfield,4.3,3.1k,Automobile,5k-10k Employees,Gurgaon/Gurugram +312 more
+L&T Finance,4.0,3.1k,NBFC,10k-50k Employees,Mumbai +483 more
+Viatris,4.2,3.1k,Pharma,10k-50k Employees,Canonsburg +71 more
+Tata Communications,4.1,3.1k,Telecom,5k-10k Employees,Mumbai +91 more
+Samvardhana Motherson Group,3.8,3.1k,Auto Components,1k-5k Employees,Noida +81 more
+Intas Pharmaceuticals,4.2,3.1k,Pharma,10k-50k Employees,Ahmedabad +119 more
+LG Electronics,4.1,3.1k,Consumer Electronics & Appliances,1k-5k Employees,Seoul +252 more
+John Deere,4.3,3.1k,Industrial Machinery,5k-10k Employees,Moline +123 more
+Varun Beverages,4.1,3.1k,Beverage,5k-10k Employees,Gurgaon/Gurugram +288 more
+Kogta Financial India Limited,4.8,3k,NBFC,1k-5k Employees,Jaipur +206 more
+Persistent Systems,3.8,3.1k,IT Services & Consulting,10k-50k Employees,Pune +33 more
+Godrej & Boyce Manufacturing,4.0,3k,Consumer Electronics & Appliances,10k-50k Employees,Mumbai +132 more
+Randstad,3.9,3k,Recruitment,5k-10k Employees,Chennai +266 more
+Thermax Limited,4.2,3k,Industrial Machinery,1k-5k Employees,Pune +183 more
+Hetero Drugs,3.9,2.9k,Pharma,1k-5k Employees,Hyderabad/Secunderabad +47 more
+Deutsche Bank,4.0,3k,Banking,10k-50k Employees,Frankfurt +38 more
+Macleods Pharmaceuticals,3.8,2.9k,Pharma,10k-50k Employees,Mumbai +100 more
+Havells,4.1,2.9k,Electrical Equipment,5k-10k Employees,Noida +184 more
+CARS24,3.7,3k,Internet,5k-10k Employees,Gurgaon +149 more
+Team Lease,4.0,3k,Recruitment,1k-5k Employees,Bangalore/Bengaluru +313 more
+Subros,4.0,2.9k,Auto Components,1k-5k Employees,Noida +60 more
+Sodexo,4.1,2.9k,Facility Management Services,10k-50k Employees,Issy les Moulineaux +133 more
+Abbott,4.2,2.9k,Pharma,10k-50k Employees,Illinois City +174 more
+VE Commercial Vehicles,4.1,2.8k,Automobile,1k-5k Employees,Gurgaon/Gurugram +129 more
+Indian Oil Corporation,4.5,2.9k,Oil & Gas,10k-50k Employees,Delhi/NCR +263 more
+Whitehat jr,3.5,2.8k,EdTech,5k-10k Employees,Mumbai +50 more
+Ford Motor,4.5,2.8k,Automobile,5k-10k Employees,Dearborn +110 more
+Tata Capital,4.2,2.9k,NBFC,5k-10k Employees,Mumbai +236 more
+Automatic Data Processing (ADP),4.1,2.8k,Software Product,1k-5k Employees,New Jersey +27 more
+Bharat Electronics,4.2,2.8k,Electronics Manufacturing,5k-10k Employees,Bangalore/Bengaluru +54 more
+Cummins,4.4,2.8k,Industrial Machinery,1k-5k Employees,Columbus +85 more
+ITC Infotech,3.7,2.9k,IT Services & Consulting,10k-50k Employees,Bangalore/Bengaluru +56 more
+Access Healthcare,4.0,2.8k,IT Services & Consulting,5k-10k Employees,Dallas +31 more
+R1 RCM,3.9,2.8k,Healthcare,5k-10k Employees,Murray +32 more
+American Express,4.2,2.8k,Financial Services,10k-50k Employees,New York City +45 more
+Alembic Pharmaceuticals,4.1,2.8k,Pharma,10k-50k Employees,Vadodara/Baroda +155 more
+Pidilite Industries,4.4,2.8k,Chemicals,5k-10k Employees,Mumbai +242 more
+Tata AIA Life Insurance,4.1,2.7k,Insurance,10k-50k Employees,Mumbai +333 more
+UnitedHealth,4.1,2.7k,Healthcare,10k-50k Employees,Minnetonka +16 more
+Hindalco Industries,4.3,2.7k,Metals & Mining,10k-50k Employees,Mumbai +89 more
+Alkem Laboratories,4.0,2.7k,Pharma,10k-50k Employees,Mumbai +167 more
+Aakash Educational Services,3.6,2.7k,EdTech,5k-10k Employees,New Delhi +212 more
+Publicis Sapient,3.6,2.7k,IT Services & Consulting,10k-50k Employees,New York +28 more
+Atos,3.8,2.7k,IT Services & Consulting,10k-50k Employees,Vilnius +41 more
+Utkarsh Small Finance Bank,3.9,2.7k,Banking,10k-50k Employees,Varanasi +305 more
+DCB Bank,3.9,2.7k,Banking,5k-10k Employees,Mumbai +305 more
+Hindustan Coca Cola Beverages,4.3,2.7k,Beverage,5k-10k Employees,Bangalore +219 more
+Indian Air Force,4.7,2.6k,Defence & Aerospace,1 Lakh+ Employees,Baddi +116 more
+Vishal Mega Mart,3.9,2.6k,Retail,10k-50k Employees,Baddi +321 more
+Barclays,4.0,2.7k,Banking,10k-50k Employees,Pune +31 more
+Berger Paints,3.8,2.7k,Chemicals,1k-5k Employees,Kolkata +260 more
+Marpu Foundation,4.9,2.7k,Non-Profit,51-200 Employees,Hyderabad / Secunderabad +58 more
+Glenmark Pharmaceuticals,4.0,2.6k,Pharma,10k-50k Employees,Baddi +142 more
+Ipca Laboratories,4.0,2.6k,Pharma,10k-50k Employees,Mumbai +131 more
+Jindal Steel and Power,4.0,2.6k,Iron & Steel,5k-10k Employees,Baddi +123 more
+Bank of America,4.4,2.6k,Banking,10k-50k Employees,Gurgaon / Gurugram +31 more
+Maersk,4.3,2.6k,Logistics,10k-50k Employees,Pune +35 more
+DTDC Express,3.8,2.6k,Logistics,1k-5k Employees,Baddi +231 more
+24/7 Customer,3.6,2.6k,BPO,5k-10k Employees,Bangalore / Bengaluru +26 more
+Aarti Industries,4.2,2.6k,Agro Chemicals,5k-10k Employees,Vapi +43 more
+ABB Group,4.1,2.6k,Electrical Equipment,1k-5k Employees,Baddi +100 more
+Honda Motorcycle & Scooter,4.2,2.6k,Automobile,10k-50k Employees,Gurgaon / Gurugram +222 more
+Wipro Infotech,4.0,2.5k,IT Services & Consulting,1 Lakh+ Employees (Global),Bangalore / Bengaluru +119 more
+Carelon Global Solutions,4.0,2.6k,IT Services & Consulting,10k-50k Employees,Hyderabad / Secunderabad +14 more
+Johnson Controls,3.7,2.5k,Industrial Automation,5k-10k Employees,Baddi +48 more
+HDFC Ergo General Insurance,4.1,2.5k,Insurance,10k-50k Employees,Mumbai +236 more
+NatWest Group,4.1,2.6k,Banking,10k-50k Employees,Gurgaon / Gurugram +22 more
+PolicyBazaar,3.5,2.6k,Internet,10k-50k Employees,Gurgaon +91 more
+CMS IT Services,3.2,2.5k,IT Services & Consulting,5k-10k Employees,Bangalore +138 more
+Cogent E Services,3.4,2.5k,BPO,10k-50k Employees,Noida +37 more
+MRF Tyres,3.8,2.5k,Auto Components,10k-50k Employees,Chennai +165 more
+RBL Bank,3.8,2.5k,Banking,10k-50k Employees,Mumbai +227 more
+Reliance Nippon Life Insurance,3.9,2.5k,Insurance,10k-50k Employees,Mumbai +437 more
+Paras Hospital,4.6,2.5k,Healthcare,1k-5k Employees,Gurgaon/Gurugram +49 more
+Reliance Digital,4.2,2.5k,Retail,5k-10k Employees,Mumbai +312 more
+PNB MetLife,3.5,2.5k,Insurance,5k-10k Employees,Mumbai +328 more
+Jubilant Foods Works,3.9,2.5k,Hospitality,10k-50k Employees,Noida +200 more
+Escorts Kubota Limited,4.1,2.5k,Automobile,1k-5k Employees,Faridabad +136 more
+GeBBS Healthcare Solutions,3.7,2.5k,BPO,5k-10k Employees,Culver City +19 more
+Wipro Consumer Care & Lighting,3.9,2.4k,FMCG,1k-5k Employees,Bangalore/Bengaluru +97 more
+Ceat Tyres,4.1,2.5k,Auto Components,5k-10k Employees,Mumbai +116 more
+Kotak Mahindara Life Insurance,3.9,2.5k,Insurance,10k-50k Employees,Mumbai +212 more
+Dabur,3.8,2.4k,FMCG,5k-10k Employees,Ghaziabad +255 more
+Axis Direct,3.9,2.4k,Financial Services,1k-5k Employees,San Mateo +273 more
+JK Cement,4.2,2.4k,Building Material,1k-5k Employees,Nimbahera +246 more
+Conduent,3.6,2.4k,BPO,5k-10k Employees,Florham Park +22 more
+InterGlobe Aviation,3.6,2.4k,Aviation,10k-50k Employees,Gurgaon/Gurugram +90 more
+Synechron,3.7,2.4k,IT Services & Consulting,10k-50k Employees,New York +26 more
+Shoppers Stop,4.1,2.4k,Retail,5k-10k Employees,Mumbai +66 more
+Birlasoft,3.8,2.4k,IT Services & Consulting,10k-50k Employees,Pune +35 more
+ACC,4.0,2.4k,Building Material,5k-10k Employees,Mumbai +220 more
+Lenskart,3.3,2.4k,Internet,5k-10k Employees,Faridabad +171 more
+HARMAN,3.9,2.4k,Consumer Electronics & Appliances,5k-10k Employees,Stamford +29 more
+ArcelorMittal Nippon Steel,4.1,2.4k,Iron & Steel,5k-10k Employees,Surat +68 more
+Reliance SMSL,4.0,2.3k,BPO,1k-5k Employees,Mumbai +489 more
+GATI-KWE,4.0,2.3k,Logistics,1k-5k Employees,Hyderabad/Secunderabad +159 more
+Indiabulls Home Loans,3.9,2.3k,NBFC,5k-10k Employees,Gurgaon/Gurugram +192 more
+KPIT Technologies,3.6,2.4k,Software Product,5k-10k Employees,Pune +32 more
+PepsiCo,4.2,2.3k,Food Processing,1 Lakh+ Employees,Harrison +232 more
+UPL,4.2,2.3k,Agro Chemicals,5k-10k Employees,Mumbai +160 more
+S&P Global,4.2,2.3k,Analytics & KPO,10k-50k Employees,New York City +24 more
+Torrent Pharmaceuticals,4.0,2.3k,Pharma,10k-50k Employees,Ahmedabad +101 more
+Dilip Buildcon,4.1,2.3k,Engineering & Construction,10k-50k Employees,Bhopal +192 more
+RSPL Group,4.2,2.3k,FMCG,10k-50k Employees,Mumbai +207 more
+Tech Mahindra Business Services,3.5,2.3k,BPO,5k-10k Employees,Mumbai +49 more
+Square Yards,3.8,2.3k,Internet,1k-5k Employees,Gurgaon +43 more
+Titan Company,4.4,2.3k,Retail,5k-10k Employees,Bangalore +145 more
+TVS Credit,4.5,2.3k,NBFC,10k-50k Employees,Chennai +315 more
+Wipro Enterprises Ltd,3.9,2.3k,IT Services & Consulting,501-1k Employees,Bangalore +104 more
+Tata AIG,4.2,2.3k,Insurance,5k-10k Employees,Mumbai +223 more
+EY Global Delivery Services ( EY GDS),3.7,2.3k,Accounting & Auditing,50k-1 Lakh Employees,Bangalore/Bengaluru +38 more
+IDFC FIRST Bharat,4.6,2.3k,NBFC,10k-50k Employees,Tiruchirappalli +307 more
+Aditya Birla Sun Life Insurance,4.2,2.3k,Insurance,10k-50k Employees,Mumbai +378 more
+Bajaj Electricals,4.1,2.2k,Consumer Electronics & Appliances,1k-5k Employees,Mumbai +200 more
+Alstom Transportation,3.9,2.2k,Urban Transport,5k-10k Employees,Saint-Ouen +67 more
+Statestreet HCL Services,3.3,2.2k,BPO,5k-10k Employees,New Delhi +16 more
+IGT Solutions,3.4,2.3k,BPO,5k-10k Employees,Gurgaon/Gurugram +33 more
+Afcons Infrastructure,4.4,2.2k,Engineering & Construction,5k-10k Employees,Mumbai +100 more
+Apollo Tyres,4.1,2.2k,Auto Components,5k-10k Employees,Gurgaon/Gurugram +152 more
+Mankind Pharma,4.2,2.2k,Pharma,10k-50k Employees,New Delhi +197 more
+Simplex Infrastructures,3.3,2.1k,Engineering & Construction,1k-5k Employees,Kolkata +133 more
+Domino's Pizza,4.0,2.2k,Hospitality,1k-5k Employees,Ypsilanti +220 more
+Suzlon Group,4.2,2.1k,Power,5k-10k Employees,Pune +109 more
+Capita,3.8,2.2k,IT Services & Consulting,5k-10k Employees,Indore +24 more
+Zensar Technologies,3.8,2.2k,IT Services & Consulting,5k-10k Employees,Pune +22 more
+Flex,4.1,2.2k,Logistics,5k-10k Employees,San Jose +39 more
+State Street Corporation,3.9,2.2k,Financial Services,10k-50k Employees,Boston +20 more
+Max Healthcare,4.1,2.1k,Healthcare,1k-5k Employees,Delhi/NCR +59 more
+KocharTech,4.1,2.1k,IT Services & Consulting,1k-5k Employees,Gurgaon/Gurugram +24 more
+Huawei Technologies,4.0,2.1k,Telecom,51-200 Employees,Gurgaon/Gurugram +99 more
+Bajaj Allianz General Insurance,4.0,2.1k,Insurance,5k-10k Employees,Pune +219 more
+Tata Technologies,3.8,2.1k,Engineering & Construction,5k-10k Employees,Singapore +40 more
+Croma,4.1,2.2k,Retail,5k-10k Employees,Mumbai +147 more
+I Process Services,3.9,2.1k,Recruitment,1k-5k Employees,Mumbai +308 more
+McDonald's,4.2,2.1k,Hospitality,1k-5k Employees,Chicago +138 more
+Taj Hotels Resorts and Palaces,4.2,2.1k,Hospitality,10k-50k Employees,Mumbai +93 more
+Grasim Industries,4.1,2.1k,Building Material,10k-50k Employees,Nagda +115 more
+HDFC Sales,4.1,2.1k,Financial Services,10k-50k Employees,Mumbai +283 more
+Nestle,4.1,2.1k,Food Processing,5k-10k Employees,Vevey +235 more
+ElasticRun,3.4,2.1k,Logistics,1k-5k Employees,Pune +347 more
+UNO Minda,4.1,2.1k,Auto Components,201-500 Employees,Gurgaon +88 more
+Landmark Group,4.1,2.1k,Retail,1k-5k Employees,Dubai Marina +139 more
+Walmart,4.0,2.1k,Retail,5k-10k Employees,Bangalore/Bengaluru +79 more
+AGS Health,4.0,2.1k,BPO,10k-50k Employees,Washington DC +39 more
+Lava International,4.1,2k,Consumer Electronics & Appliances,1k-5k Employees,Noida +212 more
+Nokia,4.2,2.1k,Telecom,10k-50k Employees,Espoo +152 more
+Blue Dart Express,4.1,2.1k,Logistics,10k-50k Employees,Mumbai +239 more
+Patanjali Ayurved,4.1,2k,FMCG,1k-5k Employees,Haridwar +260 more
+Tractors and Farm Equipment,4.1,2k,Industrial Machinery,10k-50k Employees,Chennai +167 more
+G4S,4.1,2k,Law Enforcement & Security,1 Lakh+ Employees,Gurgaon/Gurugram +139 more
+Fortis Healthcare,4.1,2k,Healthcare,1k-5k Employees,Gurgaon/Gurugram +62 more
+Capgemini Engineering,3.6,2.1k,No information available,No information available,No information available
+Societe Generale Global Solution Centre,3.9,2.1k,Financial Services,1k-5k Employees,Paris +17 more
+State Street Syntel,3.7,2k,Financial Services,501-1k Employees,Mumbai +21 more
+BlackBuck,3.9,2k,Internet,1k-5k Employees,Bangalore +321 more
+TVS Supply Chain Solutions,4.0,2k,Logistics,1k-5k Employees,Chennai +133 more
+Britannia,4.1,2k,FMCG,1k-5k Employees,Bengaluru +240 more
+Micro Labs,3.7,2k,Pharma,10k-50k Employees,Bangalore/Bengaluru +123 more
+Fiserv,3.6,2k,FinTech,5k-10k Employees,Brookfield +29 more
+KFintech,3.7,2k,FinTech,5k-10k Employees,Hyderabad +102 more
+Voltas,4.1,2k,Consumer Electronics & Appliances,1k-5k Employees,Mumbai +175 more
+Sterlite Technologies,3.8,2k,Hardware & Networking,1k-5k Employees,Pune +80 more
+Shree Cement,4.0,2k,Building Material,5k-10k Employees,Kolkata +202 more
+Kyndryl,4.1,2k,IT Services & Consulting,10k-50k Employees,New York +26 more
+Exide Industries,3.6,2k,Auto Components,5k-10k Employees,Kolkata +187 more
+Ola Cabs,3.5,1.9k,Internet,1k-5k Employees,Bangalore +97 more
+Yazaki,3.9,1.9k,Auto Components,10k-50k Employees,Tokyo +69 more
+Radisson Hotels,4.1,1.9k,Hospitality,5k-10k Employees,Minnetonka +104 more
+Dalmia Bharat Cement,4.1,1.9k,Building Material,5k-10k Employees,Delhi/NCR +208 more
+Himalaya Wellness,4.2,1.9k,Pharma,5k-10k Employees,San Francisco +197 more
+Quest Global,3.7,1.9k,IT Services & Consulting,10k-50k Employees,Singapore +35 more
+Lifestyle,4.4,1.9k,Retail,10k-50k Employees,Bangalore/Bengaluru +114 more
+IKS Health,3.6,1.9k,Healthcare,5k-10k Employees,Mumbai +16 more
+Eureka Forbes,3.9,1.9k,Consumer Electronics & Appliances,1k-5k Employees,Mumbai +163 more
+Ajanta Pharma,4.1,1.9k,Pharma,5k-10k Employees,Mumbai +97 more
+Blue Star,4.1,1.9k,Consumer Electronics & Appliances,1k-5k Employees,Mumbai +134 more
+ACT Fibernet,4.0,1.9k,Telecom,5k-10k Employees,Bengaluru/Bangalore +42 more
+Motilal Oswal Financial Services,3.8,1.9k,Financial Services,10k-50k Employees,Mumbai +129 more
+XpressBees,3.8,1.9k,Logistics,5k-10k Employees,Pune +239 more
+Aditya Birla Group,4.1,1.9k,Building Material,1 Lakh+ Employees,Mumbai +224 more
+Sonalika Tractors,3.8,1.9k,Automobile,1k-5k Employees,Hoshiarpur +152 more
+Extramarks Education,3.5,1.9k,EdTech,1k-5k Employees,Noida +102 more
+DS Group,4.1,1.9k,FMCG,1k-5k Employees,Noida +210 more
+Nokia Networks,4.3,1.8k,Hardware & Networking,501-1k Employees,Chennai +85 more
+Life Insurance Corporation of India,4.4,1.8k,Insurance,1 Lakh+ Employees,Mumbai +418 more
+Mahindra Rural Housing Finance,4.1,1.8k,NBFC,10k-50k Employees,Mumbai +414 more
+Cholamandalam MS General Insurance,3.9,1.8k,Insurance,1k-5k Employees,Chennai +331 more
+Zomato,3.8,1.9k,Internet,1k-5k Employees,Gurgaon +182 more
+Mahindra Logistics,4.1,1.9k,Logistics,1k-5k Employees,Mumbai +133 more
+Delhi Public School,3.9,1.8k,Education & Training,1k-5k Employees,Greater Noida +237 more
+Indus Towers,4.0,1.8k,Telecom,1k-5k Employees,Gurgaon +160 more
+PVR Cinemas,4.1,1.8k,Media & Entertainment,1k-5k Employees,Gurgaon +108 more
+Future Retail,4.3,1.8k,Retail,10k-50k Employees,San Francisco +198 more
+JMC Projects,4.2,1.8k,Engineering & Construction,1k-5k Employees,Mumbai +118 more
+Ninjacart,4.1,1.8k,Internet,1k-5k Employees,Bangalore +95 more
+Emcure Pharmaceuticals,3.8,1.8k,Pharma,5k-10k Employees,Pune +97 more
+Rivigo,3.9,1.8k,Internet,1k-5k Employees,Gurgaon +151 more
+SRF,4.3,1.8k,Chemicals,5k-10k Employees,Gurgaon/Gurugram +47 more
+Myntra,4.0,1.8k,Internet,1k-5k Employees,Bangalore +97 more
+V-Mart,4.3,1.8k,Retail,5k-10k Employees,Gurgaon/Gurugram +240 more
+Kalpataru Power Transmission,4.2,1.8k,Engineering & Construction,1k-5k Employees,Mumbai +213 more
+Parle Agro,4.2,1.8k,Beverage,5k-10k Employees,Mumbai +195 more
+Datamatics Global Services,3.6,1.8k,IT Services & Consulting,5k-10k Employees,Mumbai +28 more
+Movate,3.4,1.8k,IT Services & Consulting,1k-5k Employees,Plano +29 more
+Kansai Nerolac Paints,3.9,1.8k,Chemicals,1k-5k Employees,Mumbai +184 more
+Renault-Nissan,4.1,1.8k,Automobile,10k-50k Employees,Chennai +79 more
+Pfizer,4.1,1.8k,Pharma,1k-5k Employees,Chennai +115 more
+Tata Teleservices,4.1,1.7k,Telecom,201-500 Employees,Mumbai +146 more
+Fujitsu,3.9,1.8k,IT Services & Consulting,5k-10k Employees,Bangalore/Bengaluru +29 more
+Mahindra Holidays & Resorts,3.6,1.7k,Hospitality,5k-10k Employees,Mumbai +95 more
+VVDN Technologies,3.7,1.8k,IT Services & Consulting,5k-10k Employees,Gurgaon +33 more
+Indian Railways,4.2,1.7k,Railways,1 Lakh+ Employees,Delhi/NCR +209 more
+MSN Laboratories,3.8,1.7k,Pharma,10k-50k Employees,Hyderabad/Secunderabad +70 more
+3i Infotech,3.6,1.7k,IT Services & Consulting,1k-5k Employees,Mumbai +109 more
+BHEL,4.2,1.7k,Electrical Equipment,10k-50k Employees,Bangalore/Bengaluru +100 more
+KPMG Global Services,3.7,1.8k,No information available,No information available,No information available
+Raymond,4.1,1.7k,Fashion & Textile,5k-10k Employees,New York +129 more
+ICICI Securities,3.8,1.7k,Financial Services,1k-5k Employees,Mumbai +124 more
+Reliance Trends,4.4,1.7k,Retail,1 Lakh+ Employees,Navi Mumbai +341 more
+Blinkit,3.9,1.7k,Internet,1k-5k Employees,Gurgaon +64 more
+Cybage,3.9,1.7k,IT Services & Consulting,5k-10k Employees,Pune +9 more
+Ambuja Cements,4.0,1.7k,Building Material,5k-10k Employees,Mumbai +199 more
+JCB,4.0,1.7k,Industrial Machinery,1k-5k Employees,Rocester +93 more
+Cadila Pharmaceuticals,3.6,1.7k,Pharma,5k-10k Employees,Ahmedabad +116 more
+suzuki motor gujarat,4.3,1.7k,No information available,No information available,No information available
+Info Edge,4.1,1.7k,Internet,5k-10k Employees,Noida +59 more
+Shell,4.3,1.7k,Oil & Gas,10k-50k Employees,London +75 more
+GlaxoSmithKline Pharmaceuticals,4.2,1.7k,Pharma,1k-5k Employees,Brentford +183 more
+Foundever,3.8,1.7k,BPO,5k-10k Employees,Miami +16 more
+Poonawalla Fincorp,3.9,1.6k,NBFC,1k-5k Employees,Mumbai +249 more
+ZS,3.4,1.7k,Management Consulting,5k-10k Employees,Evanston +12 more
+PhonePe,4.1,1.7k,FinTech,5k-10k Employees,Bangalore +239 more
+Whirlpool,4.1,1.7k,Consumer Electronics & Appliances,1k-5k Employees,Michigan +141 more
+Bharat Petroleum,4.2,1.7k,Oil & Gas,5k-10k Employees,Mumbai +223 more
+Tata Elxsi,4.0,1.7k,IT Services & Consulting,5k-10k Employees,Bangalore/Bengaluru +25 more
+Jindal Stainless,4.3,1.7k,Iron & Steel,1k-5k Employees,Delhi/NCR +58 more
+Endurance Technologies,3.9,1.6k,Auto Components,1k-5k Employees,Aurangabad +38 more
+NoBroker,3.2,1.7k,Internet,1k-5k Employees,Bangalore +37 more
+Force Motors,3.6,1.6k,Automobile,1k-5k Employees,Pune +87 more
+ITC Hotels,4.2,1.6k,Hospitality,5k-10k Employees,Kolkata +77 more
+Fincare Small Finance Bank,4.1,1.6k,Banking,10k-50k Employees,Bangalore +362 more
+Shahi Exports,4.1,1.6k,Retail,1 Lakh+ Employees,Faridabad +60 more
+Syngene International,4.0,1.6k,Pharma,1k-5k Employees,Bangalore/Bengaluru +14 more
+GVK Emergency Management and Research Institute,3.8,1.6k,Non-Profit,10k-50k Employees,Hyderabad/Secunderabad +151 more
+Delphi TVS,4.1,1.6k,Auto Components,1k-5k Employees,Kanchipuram +37 more
+Bharti AXA Life Insurance,3.9,1.6k,Insurance,1k-5k Employees,Mumbai +219 more
+Kalyan Jewellers,4.7,1.6k,Jewellery,5k-10k Employees,Bangalore / Bengaluru +132 more
+Sobha,4.0,1.6k,Real Estate,1k-5k Employees,Bangalore/Bengaluru +36 more
+Care Health Insurance,3.8,1.6k,Internet,5k-10k Employees,Gurgaon +197 more
+Brakes India,4.1,1.6k,Auto Components,501-1k Employees,Chennai +74 more
+Lodha group,4.1,1.6k,Real Estate,5k-10k Employees,Mumbai +24 more
+Aavas Financiers,4.0,1.6k,Financial Services,5k-10k Employees,Jaipur +237 more
+HCL Infosystems,4.0,1.6k,IT Services & Consulting,51-200 Employees,Noida +107 more
+Citicorp,3.7,1.7k,Financial Services,10k-50k Employees,Mumbai +23 more
+Sterling & Wilson,4.2,1.6k,Engineering & Construction,501-1k Employees,Mumbai +100 more
+Dhani Loans and Services,3.9,1.6k,NBFC,1k-5k Employees,New Delhi +179 more
+Bureau Veritas,4.0,1.6k,Other,1k-5k Employees,Paris La Défense +113 more
+CAMS,3.7,1.6k,IT Services & Consulting,5k-10k Employees,Chennai +97 more
+Sopra Steria,4.0,1.6k,IT Services & Consulting,5k-10k Employees,Paris +15 more
+KENT RO Systems,4.1,1.6k,Consumer Electronics & Appliances,1k-5k Employees,Noida +140 more
+Gallagher,3.9,1.6k,Insurance,10k-50k Employees,Rolling Meadows +16 more
+Unacademy,3.3,1.6k,EdTech,1k-5k Employees,Bangalore +57 more
+Varroc Group,3.8,1.6k,Auto Components,1k-5k Employees,Aurangabad +34 more
+Coromandel International,4.2,1.6k,Agro Chemicals,5k-10k Employees,Hyderabad/Secunderabad +146 more
+Future Generali India Life Insurance,3.8,1.6k,Insurance,1k-5k Employees,Mumbai +173 more
+Canara HSBC Life Insurance,3.7,1.6k,Insurance,5k-10k Employees,Gurgaon/Gurugram +247 more
+Allsec Technologies,4.1,1.6k,BPO,1k-5k Employees,Chennai +26 more
+Cisco,4.3,1.6k,Hardware & Networking,10k-50k Employees,San Jose +36 more
+Tata Motors Finance,4.2,1.5k,NBFC,1k-5k Employees,Mumbai +225 more
+RMSI,3.8,1.6k,IT Services & Consulting,1k-5k Employees,Noida +13 more
+Power Mech Projects,3.9,1.5k,Engineering & Construction,1k-5k Employees,Hyderabad/Secunderabad +118 more
+Star Health & Allied Insurance,3.9,1.5k,Insurance,10k-50k Employees,Chennai +251 more
+café Coffee day,4.0,1.5k,Hospitality,1k-5k Employees,Bengaluru +92 more
+Adani Wilmar,4.2,1.5k,FMCG,1k-5k Employees,Ahmedabad +155 more
+IntouchCX,3.0,1.6k,BPO,5k-10k Employees,Winnipeg +17 more
+JK Tyres,3.8,1.5k,Auto Components,1k-5k Employees,New Delhi +131 more
+Gabriel India,4.2,1.5k,Auto Components,1k-5k Employees,Pune +40 more
+KIA MOTORS,3.9,1.5k,Automobile,1k-5k Employees,Seoul +138 more
+Straive,3.5,1.5k,Analytics & KPO,10k-50k Employees,Singapore +24 more
+DBS Bank,3.9,1.6k,Banking,5k-10k Employees,Hyderabad/Secunderabad +143 more
+Lucas-TVS,4.0,1.5k,Auto Components,5k-10k Employees,Chennai +62 more
+Bank of Baroda,3.6,1.5k,Banking,50k-1 Lakh Employees,Vadodara/Baroda +246 more
+Planet Spark,3.7,1.5k,EdTech,51-200 Employees,Gurgaon +41 more
+Laurus Labs,4.2,1.5k,Pharma,5k-10k Employees,Hyderabad/Secunderabad +15 more
+Sify Technologies,4.0,1.5k,IT Services & Consulting,1k-5k Employees,Chennai +107 more
+Hero FinCorp,4.2,1.5k,NBFC,1k-5k Employees,Delhi +324 more
+ValueLabs,3.9,1.5k,IT Services & Consulting,5k-10k Employees,Hyderabad/Secunderabad +16 more
+Hindustan Aeronautics,4.4,1.5k,Defence & Aerospace,10k-50k Employees,Bangalore/Bengaluru +47 more
+Adani Power,3.9,1.5k,Power,1k-5k Employees,Ahmedabad +85 more
+Indian Navy,4.6,1.5k,Defence & Aerospace,50k-1 Lakh Employees,Delhi/NCR +58 more
+Parle Products,4.0,1.5k,Food Processing,1k-5k Employees,Mumbai +192 more
+ABC,4.0,1.6k,Broadcasting,1k-5k Employees (Global),New York +104 more
+Akums Drugs & Pharmaceuticals Limited,4.2,1.6k,Pharma,10k-50k Employees,Delhi/NCR +28 more
+Thomson Reuters,4.2,1.5k,Software Product,5k-10k Employees,Toronto +24 more
+upGrad,3.8,1.5k,EdTech,5k-10k Employees,San Francisco +38 more
+ESAF Microfinance & Investments (P),3.9,1.5k,Financial Services,1k-5k Employees,Thrissur/Trichur +291 more
+Taurus BPO Services,4.6,1.4k,BPO,1k-5k Employees,Pune +14 more
+Uflex,3.8,1.5k,Packaging,5k-10k Employees,Noida +42 more
+Intellect Design Arena,4.1,1.5k,FinTech,5k-10k Employees,Chennai +27 more
+AECOM,4.3,1.5k,Engineering & Construction,1k-5k Employees,Dallas +106 more
+SAP,4.3,1.5k,Software Product,10k-50k Employees,Walldorf +45 more
+TVS Sundram Fasteners,3.8,1.5k,Auto Components,1k-5k Employees,Chennai +42 more
+Citibank,4.0,1.5k,Banking,10k-50k Employees (Global),New York +47 more
+CMA CGM,4.0,1.3k,Ports & Shipping,501-1k Employees,Marseille +24 more
+Cargill,4.2,1.5k,Food Processing,1k-5k Employees,Wayzata +91 more
+Google,4.4,1.6k,Internet,10k-50k Employees,Hyderabad / Secunderabad +80 more
+Microsoft Corporation,4.1,1.5k,Software Product,10k-50k Employees,Hyderabad / Secunderabad +44 more
+IDBI Bank,3.7,1.4k,Banking,10k-50k Employees,Mumbai +283 more
+SGS,4.0,1.4k,1k-5k Employees,Forbes Global 2000,Geneva +112 more
+Reliance General Insurance,3.9,1.4k,Insurance,5k-10k Employees,Mumbai +173 more
+Dr Lal PathLabs,4.2,1.4k,Healthcare,1k-5k Employees,Gurgaon/Gurugram +156 more
+Honda,4.2,1.4k,Automobile,10k-50k Employees,Greater Noida +199 more
+Novartis,4.1,1.4k,Pharma,1k-5k Employees,Switzerland +67 more
+Optum Global Solutions,4.2,1.5k,IT Services & Consulting,10k-50k Employees,Gurgaon / Gurugram +14 more
+Renault Nissan Technology & Business Centre India,3.9,1.5k,IT Services & Consulting,5k-10k Employees,Chennai +13 more
+L&T Energy Hydrocarbon,3.9,1.4k,Engineering & Construction,5k-10k Employees,Mumbai +70 more
+TCE,3.8,1.4k,Engineering & Construction,5k-10k Employees,Mumbai +102 more
+Kotak Securities,3.7,1.4k,Financial Services,5k-10k Employees,Mumbai +117 more
+Meesho,3.7,1.4k,Internet,5k-10k Employees,Bengaluru/Bangalore +100 more
+Xoriant,3.9,1.4k,IT Services & Consulting,1k-5k Employees,Sunnyvale +19 more
+YASH Technologies,3.8,1.4k,IT Services & Consulting,5k-10k Employees,East Moline +21 more
+Narayana Health,4.2,1.4k,Healthcare,10k-50k Employees,Bangalore/Bengaluru +59 more
+Honeywell Automation,3.8,1.4k,Consumer Electronics & Appliances,10k-50k Employees,Morris Plains +65 more
+AXA Business Services,3.8,1.4k,Insurance,501-1k Employees,Paris +9 more
+Big Bazaar,4.3,1.4k,Retail,10k-50k Employees,Mumbai +157 more
+SBI General Insurance,3.8,1.4k,Insurance,5k-10k Employees,Mumbai +211 more
+Spark Minda,3.9,1.4k,Auto Components,1k-5k Employees,Gurgaon +63 more
+BA Continuum,4.3,1.4k,NBFC,1k-5k Employees,Gurgaon/Gurugram +15 more
+Apollo Pharmacy,3.9,1.4k,Pharma,10k-50k Employees,Chennai +210 more
+Vedantu,3.4,1.4k,EdTech,1k-5k Employees,Bangalore +53 more
+Wockhardt,3.9,1.4k,Pharma,5k-10k Employees,Mumbai +77 more
+MetLife,4.3,1.4k,Insurance,1k-5k Employees,New York +39 more
+Philips,3.9,1.4k,Consumer Electronics & Appliances,5k-10k Employees,Amsterdam +85 more
+CMS Infosystems,3.7,1.4k,IT Services & Consulting,5k-10k Employees,Mumbai +170 more
+Tata Play,4.0,1.4k,Broadcasting,5k-10k Employees,Mumbai +196 more
+Biological E,4.3,1.4k,Biotechnology,1k-5k Employees,Hyderabad/Secunderabad +47 more
+Niva Bupa Health Insurance Company,3.7,1.4k,Insurance,5k-10k Employees,Delhi/NCR +188 more
+NCR Corporation,4.1,1.4k,IT Services & Consulting,5k-10k Employees,Atlanta +80 more
+Vardhman Fabrics,4.1,1.4k,Fashion & Textile,10k-50k Employees,Ludhiana +57 more
+Crisil,3.7,1.4k,Financial Services,1k-5k Employees,Mumbai +57 more
+Aragen Life Sciences,4.1,1.4k,Pharma,1k-5k Employees,Hyderabad/Secunderabad +19 more
+G R Infraprojects,4.2,1.4k,Engineering & Construction,10k-50k Employees,Gurgaon/Gurugram +134 more
+Exl India,3.6,1.4k,IT Services & Consulting,11-50 Employees,New Delhi +27 more
+Safexpress,4.1,1.4k,Logistics,1k-5k Employees,Delhi/NCR +142 more
+Frankfinn Institute of Air Hostess Training,4.0,1.4k,Education & Training,1k-5k Employees,Gurgaon/Gurugram +58 more
+Innovsource Services,4.0,1.4k,Recruitment,1k-5k Employees,Mumbai +199 more
+Microland,3.6,1.4k,IT Services & Consulting,1k-5k Employees,Bangalore +40 more
+Allstate,4.0,1.4k,Insurance,5k-10k Employees,Bangalore/Bengaluru +9 more
+Panasonic Life Solutions India,4.1,1.4k,Consumer Electronics & Appliances,10k-50k Employees,Gurgaon / Gurugram +109 more
+SBI Securities,3.9,1.4k,Financial Services,5k-10k Employees,Mumbai +226 more
+Amazon Transportation Services,4.1,1.3k,Logistics,1k-5k Employees,Seattle +132 more
+R.R. Donnelley,4.0,1.3k,Marketing & Advertising,5k-10k Employees,Chicago +12 more
+Angel One,3.9,1.4k,Financial Services,1k-5k Employees,Mumbai +115 more
+Metro Cash & Carry,4.3,1.4k,Retail,1k-5k Employees,Bangalore/Bengaluru +78 more
+PHN Technology,4.6,1.3k,No information available,No information available,No information available
+Matrimony.com,4.4,1.4k,Internet,1k-5k Employees,Chennai +51 more
+SS&C TECHNOLOGIES,3.5,1.4k,IT Services & Consulting,5k-10k Employees,Windsor Locks +25 more
+Bharat Financial Inclusion,4.1,1.6k,NBFC,10k-50k Employees,Hyderabad +346 more
+Reckitt Benckiser,4.0,1.4k,FMCG,1k-5k Employees,Slough +115 more
+Bhushan Power & Steel,4.0,1.3k,Iron & Steel,5k-10k Employees,Delhi/NCR +51 more
+CitiusTech,3.5,1.4k,IT Services & Consulting,1k-5k Employees,New Jersey +14 more
+USV,4.1,1.3k,Pharma,1k-5k Employees,Mumbai +91 more
+Aditya Birla Capital,4.0,1.4k,Financial Services,10k-50k Employees,Mumbai +191 more
+Motherson Automotive Technologies and Engineering,4.0,1.3k,Auto Components,501-1k Employees,Noida +54 more
+Adecco Group,3.8,1.3k,Recruitment,1k-5k Employees,Zurich +126 more
+Procter & Gamble,4.2,1.3k,FMCG,1k-5k Employees,Cincinnati +209 more
+Dainik Bhaskar Group,4.4,1.3k,Printing & Publishing,5k-10k Employees,Bhopal +132 more
+XL Dynamics,3.2,1.3k,IT Services & Consulting,1k-5k Employees,Navi Mumbai +27 more
+Yamaha Motor,4.2,1.3k,Automobile,1k-5k Employees,Iwata +127 more
+USHA International,4.2,1.3k,Consumer Electronics & Appliances,1k-5k Employees,Gurgaon/Gurugram +113 more
+Cavinkare,4.0,1.3k,FMCG,1k-5k Employees,Chennai +150 more
+Team Computers,3.7,1.3k,IT Services & Consulting,1k-5k Employees,Delhi/NCR +86 more
+HERE Technologies,3.8,1.3k,IT Services & Consulting,1k-5k Employees,Eindhoven +14 more
+Mercedes-Benz Research & Development India,4.0,1.4k,IT Services & Consulting,5k-10k Employees,Bengaluru/Bangalore +49 more
+NTPC,4.3,1.3k,10k-50k Employees,Fortune India 500,Delhi/NCR +104 more
+KONE,4.3,1.3k,Industrial Machinery,5k-10k Employees,Chennai +65 more
+Isgec Heavy Engineering,3.9,1.3k,Industrial Machinery,1k-5k Employees,Noida +69 more
+DHL Supply Chain,4.3,1.3k,Logistics,1k-5k Employees,Bonn +78 more
+Torrent Power,3.8,1.3k,Power,5k-10k Employees,Ahmedabad +39 more
+PI Industries,4.2,1.3k,Agro Chemicals,1k-5k Employees,Gurgaon/Gurugram +88 more
+Mother Dairy Fruit & Vegetable,4.2,1.3k,Food Processing,1k-5k Employees,Noida +113 more
+Honda Cars,4.4,1.3k,Automobile,5k-10k Employees,Alwar +91 more
+Oberoi Group of Hotels,4.2,1.3k,Hospitality,1k-5k Employees,Delhi/NCR +31 more
+Honeywell Technology Solutions,3.9,1.3k,Defence & Aerospace,10k-50k Employees,Bangalore/Bengaluru +19 more
+DIVI'S Laboratories,3.9,1.3k,Healthcare,10k-50k Employees,Hyderabad/Secunderabad +23 more
+Chegg,4.2,1.3k,EdTech,501-1k Employees,Santa Clara +63 more
+Saint-Gobain,4.0,1.3k,Building Material,10k-50k Employees,Paris +92 more
+Haier Appliances India,4.1,1.3k,Consumer Electronics & Appliances,1k-5k Employees,Qingdao +110 more
+Johnson & Johnson,4.2,1.3k,Pharma,1k-5k Employees,New Brunswick +139 more
+Sigma Electric Manufacturing Corporation,4.0,1.3k,Industrial Machinery,1k-5k Employees,Garner +20 more
+Paisabazaar.com,3.6,1.3k,Internet,1k-5k Employees,Gurgaon/Gurugram +22 more
+Jindal Saw,4.1,1.3k,Building Material,5k-10k Employees,Delhi/NCR +64 more
+Credit Suisse,4.2,1.3k,Financial Services,10k-50k Employees,Zurich +10 more
+Arvind Group,4.1,1.3k,Fashion & Textile,10k-50k Employees,Ahmedabad +82 more
+Max Fashion,4.2,1.3k,Retail,10k-50k Employees,Abu Dhabi +137 more
+Verizon,4.1,1.3k,Telecom,5k-10k Employees,New York City +11 more
+Tata Communications Transformation Services,4.1,1.3k,Hardware & Networking,1k-5k Employees,Mumbai +83 more
+Hyatt Regency,4.2,1.3k,Hospitality,1k-5k Employees,New Delhi +44 more
+Daikin,4.2,1.3k,Consumer Electronics & Appliances,1k-5k Employees,Osaka City +90 more
+Star Union Dai-ichi Life Insurance,3.9,1.3k,Insurance,1k-5k Employees,Navi Mumbai +231 more
+V-Guard Industries,4.4,1.3k,Consumer Electronics & Appliances,1k-5k Employees,Kochi/Cochin +131 more
+Medi Assist India,3.8,1.3k,Insurance,5k-10k Employees,Bangalore +54 more
+DHL Express,4.1,1.3k,Logistics,1k-5k Employees,Bonn +84 more
+Globiva,3.2,1.3k,BPO,1k-5k Employees,Gurgaon/Gurugram +19 more
+Exela Technologies,3.5,1.3k,IT Services & Consulting,1k-5k Employees,Irving +21 more
+Haldiram Foods,4.0,1.3k,FMCG,1k-5k Employees,Nagpur +123 more
+FactSet,4.0,1.3k,Financial Services,1k-5k Employees,Norwalk +15 more
+Nuvoco Vistas,4.2,1.3k,Building Material,1k-5k Employees,Mumbai +141 more
+Tata Group,4.3,1.3k,IT Services & Consulting,1 Lakh+ Employees,Mumbai +154 more
+Photon Interactive,4.0,1.3k,IT Services & Consulting,1k-5k Employees,London +10 more
+CG Power and Industrial Solutions,3.9,1.2k,Electrical Equipment,1k-5k Employees,Mumbai +82 more
+UBS,3.9,1.3k,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,Zurich +30 more
+HDFC Securities,3.7,1.2k,Financial Services,1k-5k Employees,Mumbai +163 more
+Medanta the Medicity,4.1,1.2k,Healthcare,5k-10k Employees,Gurgaon +33 more
+Relaxo Footwear,4.3,1.2k,Fashion & Textile,5k-10k Employees,New Delhi +128 more
+Piramal Group,4.0,1.2k,Financial Services,10k-50k Employees,Mumbai +124 more
+Hindustan Petroleum,4.3,1.3k,Oil & Gas,5k-10k Employees,Mumbai +203 more
+Orange Business,4.3,1.2k,IT Services & Consulting,1k-5k Employees,Paris +46 more
+Aadhar Housing Finance,4.1,1.2k,Financial Services,1k-5k Employees,Mumbai +254 more
+BNP Paribas,3.9,1.3k,Financial Services,10k-50k Employees,Paris +22 more
+FirstCry,3.8,1.3k,Retail,1k-5k Employees,Pune +148 more
+Morgan Stanley,3.7,1.3k,Financial Services,10k-50k Employees,New York +17 more
+First American Corporation,3.9,1.2k,Financial Services,1k-5k Employees,Santa Ana +14 more
+NextComm Corporation,4.9,1.2k,1k-5k Employees,7 years old,Ahmedabad +11 more
+Biocon Biologics,3.8,1.2k,Biotechnology,1k-5k Employees,Bangalore/Bengaluru +30 more
+Aforeserve,3.5,1.2k,IT Services & Consulting,1k-5k Employees,Noida +147 more
+Security and Intelligence Services (India),4.2,1.2k,Law Enforcement & Security,1 Lakh+ Employees,Delhi/NCR +160 more
+Oracle Cerner,3.7,1.2k,IT Services & Consulting,5k-10k Employees,Kansas +5 more
+Belrise Industries,3.8,1.2k,Auto Components,10k-50k Employees,Aurangabad +40 more
+Emami,4.1,1.2k,Beauty & Personal Care,1k-5k Employees,Kolkata +150 more
+Aon,3.9,1.2k,Financial Services,5k-10k Employees,London +19 more
+IDC Technologies,3.3,1.2k,IT Services & Consulting,1k-5k Employees,Milpitas +56 more
+Bata,3.9,1.2k,Fashion & Textile,1k-5k Employees,Lausanne +119 more
+Exotic Learning,4.5,1.2k,EdTech,51-200 Employees,Lucknow +141 more
+Fusion CX,3.2,1.2k,BPO,1k-5k Employees,Ohio +44 more
+Hindustan Construction Company,4.3,1.2k,Engineering & Construction,1k-5k Employees,Mumbai +84 more
+Dell EMC,4.2,1.2k,IT Services & Consulting,5k-10k Employees,Hopkinton +51 more
+Toyota Kirloskar Motor,4.4,1.2k,Automobile,5k-10k Employees,Bangalore/Bengaluru +74 more
+Marriott International,4.3,1.2k,Hospitality,10k-50k Employees,Bethesda +73 more
+Tata Power,4.0,1.3k,Power,10k-50k Employees,Mumbai +120 more
+KFC,4.2,1.2k,Hospitality,5k-10k Employees,Louisville +141 more
+Mercer,3.8,1.2k,Management Consulting,1k-5k Employees,New York +17 more
+Tesco,3.9,1.2k,Retail,1k-5k Employees,Hertfordshire +15 more
+Narayana Educational Society,3.7,1.2k,Education & Training,1k-5k Employees,Hyderabad/Secunderabad +131 more
+Trident Group,3.5,1.2k,Fashion & Textile,10k-50k Employees,Ludhiana +44 more
+Faurecia,4.0,1.2k,Auto Components,1k-5k Employees,Nanterre +25 more
+Trent,4.1,1.2k,Retail,10k-50k Employees,Mumbai +109 more
+TaskUs,3.5,1.2k,BPO,5k-10k Employees,New Braunfels +23 more
+Ola Electric Mobility,3.3,1.2k,Automobile,5k-10k Employees,Bangalore +173 more
+Altruist Technologies,3.2,1.2k,BPO,1k-5k Employees,Chandigarh +30 more
+Tata Advanced Systems,3.9,1.4k,Defence & Aerospace,5k-10k Employees,Hyderabad/Secunderabad +37 more
+FedEx Express,4.2,1.2k,Logistics,5k-10k Employees,Moon Township +91 more
+Iris Software,4.2,1.2k,IT Services & Consulting,1k-5k Employees,Edison +16 more
+Polycab Wires,4.1,1.2k,Electrical Equipment,1k-5k Employees,Mumbai +123 more
+Veritas Finance,4.7,1.2k,NBFC,1k-5k Employees,Chennai +260 more
+L.G.Balakrishnan & Bros,3.7,1.2k,Auto Components,1k-5k Employees,Coimbatore +39 more
+Marico,4.1,1.2k,FMCG,1k-5k Employees,Mumbai +151 more
+Suguna Foods,4.1,1.2k,Food Processing,5k-10k Employees,Coimbatore +162 more
+HTC Global Services,3.6,1.2k,IT Services & Consulting,5k-10k Employees,Troy +25 more
+iOPEX Technologies,3.7,1.2k,IT Services & Consulting,1k-5k Employees,San Jose +15 more
+NIIT,3.7,1.2k,Education & Training,1k-5k Employees,Gurgaon / Gurugram +96 more
+Infinite Computer Solutions,3.5,1.2k,IT Services & Consulting,1k-5k Employees,Rockville  +28 more
+Hero Motors Company,4.1,1.1k,Automobile,201-500 Employees,New Delhi +198 more
+Muthoot Group,3.6,1.1k,Financial Services,10k-50k Employees,Wedel +271 more
+Krishna Maruti,4.0,1.1k,Auto Components,1k-5k Employees,Gurgaon/Gurugram +33 more
+Sony,4.4,1.1k,Consumer Electronics & Appliances,1k-5k Employees,Delhi/NCR +128 more
+Jet Airways,4.6,1.1k,Aviation,201-500 Employees,Mumbai +45 more
+Bajaj Capital,4.0,1.1k,Financial Services,1k-5k Employees,Delhi/NCR +146 more
+Welspun,4.1,1.1k,Fashion & Textile,10k-50k Employees,Mumbai +60 more
+Manipal Hospitals,4.2,1.2k,Healthcare,1k-5k Employees,Bangalore/Bengaluru +50 more
+Oracle Financial Services Software,3.7,1.1k,IT Services & Consulting,10k-50k Employees,Mumbai +18 more
+Pantaloons,4.2,1.1k,Fashion & Textile,5k-10k Employees,Mumbai +142 more
+Satin Creditcare Network,4.1,1.1k,NBFC,5k-10k Employees,Gurgaon/Gurugram +238 more
+Nayara Energy,4.3,1.1k,Petrochemicals,1k-5k Employees,Mumbai +78 more
+Inox Leisure,4.1,1.1k,Media & Entertainment,1k-5k Employees,Mumbai +86 more
+SRL Diagnostics,4.2,1.1k,Healthcare,5k-10k Employees,Mumbai +118 more
+ISS Facility Services,4.2,1.1k,Facility Management Services,10k-50k Employees,Copenhagen +57 more
+Biocon Limited,3.9,1.1k,Biotechnology,5k-10k Employees,Bangalore Rural +48 more
+ZF Commercial Vehicle Control Systems,4.0,1.1k,No information available,No information available,No information available
+Akzo Nobel India,4.2,1.1k,Chemicals,1k-5k Employees,Amsterdam +128 more
+Adani Group,4.0,1.2k,Power,10k-50k Employees,Ahmedabad +125 more
+TTEC India,3.8,1.1k,BPO,1k-5k Employees,Englewood +25 more
+J. Kumar Infraprojects,4.1,1.1k,Engineering & Construction,5k-10k Employees,Mumbai +30 more
+Fabindia,4.0,1.1k,Fashion & Textile,1k-5k Employees,Delhi/NCR +82 more
+Barclays Shared Services,4.1,1.1k,IT Services & Consulting,5k-10k Employees,London +12 more
+Collabera Technologies,3.5,1.1k,IT Services & Consulting,501-1k Employees,Basking Ridge +47 more
+ICICI Home Finance,3.8,1.1k,NBFC,1k-5k Employees,Mumbai +183 more
+Daimler India Commercial Vehicles,4.2,1.1k,Automobile,1k-5k Employees,Chennai +39 more
+Cushman & Wakefield,4.3,1.1k,Real Estate,1k-5k Employees,Chicago +38 more
+Gland Pharma,3.7,1.1k,Pharma,1k-5k Employees,Hyderabad/Secunderabad +27 more
+VLCC,3.7,1.1k,Beauty & Personal Care,1k-5k Employees,Delhi/NCR +100 more
+Redcliffe Labs,4.5,1.1k,Healthcare,1k-5k Employees,Noida +78 more
+Chandigarh University,4.5,1.1k,Education & Training,1k-5k Employees,Mohali +42 more
+Supreme Industries,4.2,1.1k,Petrochemicals,5k-10k Employees,Mumbai +92 more
+Panasonic,4.1,1.1k,Consumer Electronics & Appliances,1k-5k Employees,Kadoma +110 more
+Lavender Technology,5.0,1.1k,IT Services & Consulting,5k-10k Employees,USA +4 more
+Asahi India Glass,3.9,1.1k,Auto Components,1k-5k Employees,Gurgaon/Gurugram +66 more
+Ashoka Buildcon,4.1,1.1k,Engineering & Construction,1k-5k Employees,Nasik/Nashik +132 more
+ITD Cementation India,4.3,1.1k,Engineering & Construction,1k-5k Employees,Mumbai +67 more
+JioMart,3.9,1.1k,No information available,No information available,No information available
+Jindal X,3.5,1.1k,BPO,1k-5k Employees,New Delhi +20 more
+TCS iON,4.0,1.1k,IT Services & Consulting,1k-5k Employees,Mumbai +98 more
+Annapurna Finance,4.1,1.1k,NBFC,5k-10k Employees,Bhubaneswar +281 more
+Sysnet Global Technologies,3.7,1.1k,IT Services & Consulting,1k-5k Employees,Delhi/NCR +114 more
+NeoSOFT,4.0,1.3k,IT Services & Consulting,1k-5k Employees,Mumbai +20 more
+Aye Finance,4.2,1.1k,NBFC,5k-10k Employees,Delhi +237 more
+Godrej Group,4.0,1.1k,Chemicals,10k-50k Employees,Mumbai +117 more
+Shadowfax Technologies,3.7,1.1k,Logistics,1k-5k Employees,Bangalore +160 more
+Granules India,3.9,1.1k,Pharma,1k-5k Employees,Hyderabad/Secunderabad +16 more
+Ocwen Financial Solutions,4.2,1.1k,Financial Services,1k-5k Employees,West Palm Beach +8 more
+Heritage Foods,4.1,1.1k,Food Processing,1k-5k Employees,Hyderabad/Secunderabad +94 more
+GMR Group,4.1,1.1k,Engineering & Construction,10k-50k Employees,Delhi/NCR +56 more
+Aptara,3.3,1.1k,Printing & Publishing,1k-5k Employees,Falls Church +11 more
+Sanofi,4.4,1.1k,Pharma,1k-5k Employees,Paris +73 more
+HighRadius,3.0,1.1k,FinTech,1k-5k Employees,Houston +13 more
+GE,4.3,1.1k,Defence & Aerospace,10k-50k Employees,Boston +63 more
+Adani Ports and SEZ,3.9,1.1k,Ports & Shipping,1k-5k Employees,Ahmedabad +69 more
+Compass Group Support Services,4.1,1.1k,Hospitality,10k-50k Employees,Chertsey +66 more
+MiraMed Ajuba,4.0,1.1k,BPO,1k-5k Employees,Chennai +14 more
+EPAM Systems,3.8,1.1k,IT Services & Consulting,5k-10k Employees,Newtown +20 more
+Bharat Forge,3.9,1.1k,Iron & Steel,1k-5k Employees,Pune +18 more
+Spicejet,3.5,1.1k,Aviation,5k-10k Employees,Gurgaon/Gurugram +58 more
+Canara Bank,3.5,1.1k,Banking,50k-1 Lakh Employees,Bangalore/Bengaluru +167 more
+Spinny,3.9,1.1k,Internet,1k-5k Employees,Gurgaon +43 more
+Caterpillar Inc,4.2,1.1k,Industrial Machinery,5k-10k Employees,Deerfield +35 more
+Bharat FIH,4.0,1.1k,Electronics Manufacturing,10k-50k Employees,Chennai +32 more
+Broadridge Financial Solutions,4.0,1.1k,FinTech,5k-10k Employees,New York City +9 more
+Unisys,3.8,1.1k,IT Services & Consulting,1k-5k Employees,Blue Bell +13 more
+Evalueserve,3.4,1.1k,IT Services & Consulting,1k-5k Employees,Schaffhausen +11 more
+AB InBev India,3.5,1.1k,Beverage,1k-5k Employees,Leuven +65 more
+NSE.IT,3.6,1.1k,IT Services & Consulting,1k-5k Employees,Mumbai +138 more
+GE Vernova,4.2,1.1k,No information available,No information available,No information available
+Sharekhan,4.0,1.1k,Financial Services,1k-5k Employees,Mumbai +109 more
+Steel Strips Wheels,3.8,1.1k,Auto Components,1k-5k Employees,Chandigarh +36 more
+Xiaomi,3.9,1k,Consumer Electronics & Appliances,1k-5k Employees,Haidian District +179 more
+Edelweiss,3.8,1k,Financial Services,1k-5k Employees,Mumbai +108 more
+Vfs Global Services,3.7,1.1k,BPO,1k-5k Employees,Mumbai +26 more
+Lumax Industries,4.0,1.1k,Auto Components,1k-5k Employees,Pune +32 more
+Amity University,3.6,1k,Education & Training,1k-5k Employees,Noida +78 more
+Sagility,3.9,1.1k,BPO,10k-50k Employees,Westminster +19 more
+IFB,3.8,1.1k,Consumer Electronics & Appliances,201-500 Employees,Kolkata +139 more
+Pine Labs,3.7,1k,FinTech,1k-5k Employees,Noida +80 more
+Unichem Laboratories,3.9,1k,Pharma,1k-5k Employees,Mumbai +66 more
+Bisleri,4.2,1k,Beverage,1k-5k Employees,Mumbai +138 more
+NEC,4.6,1k,IT Services & Consulting,5k-10k Employees,Noida +41 more
+Indoco Remedies,3.7,1k,Pharma,5k-10k Employees,Mumbai +69 more
+Cinépolis,4.0,1k,Media & Entertainment,1k-5k Employees,Morelia +53 more
+Physicswallah,3.8,1.1k,EdTech,10k-50k Employees,Noida +73 more
+Newgen Software Technologies,3.6,1k,IT Services & Consulting,1k-5k Employees,New Delhi +23 more
+CorroHealth,3.4,1k,No information available,No information available,No information available
+Tanishq,4.5,1k,Jewellery,5k-10k Employees,Bangalore/Bengaluru +195 more
+Synchrony,4.4,1k,Financial Services,1k-5k Employees,Stamford +9 more
+Aircel,4.5,999,Telecom,5k-10k Employees,Gurgaon/Gurugram +115 more
+Iffco Tokio General Insurance Co.,4.1,1k,Insurance,5k-10k Employees,Gurgaon/Gurugram +235 more
+Punjab National Bank,4.1,1k,Banking,1 Lakh+ Employees,Delhi/NCR +181 more
+Jakson Group,4.4,1k,Power,5k-10k Employees,Noida +84 more
+Iksula,3.8,1k,IT Services & Consulting,501-1k Employees,Mumbai +116 more
+Fino Payments Bank,4.0,1k,Banking,1k-5k Employees,Mumbai +217 more
+Northern Trust Operating Services,4.1,1k,Financial Services,5k-10k Employees,Chicago +16 more
+LivSpace,3.5,1k,Architecture & Interior Design,1k-5k Employees,Bangalore +38 more
+SYSKA LED Lights,2.9,996,Consumer Electronics & Appliances,1k-5k Employees (Global),Pune +152 more
+ECIL,4.1,994,Electronics Manufacturing,1k-5k Employees,Hyderabad/Secunderabad +41 more
+Saipem,4.1,982,Engineering & Construction,1k-5k Employees,San Donato Milanese +37 more
+Devyani International,3.9,1k,Hospitality,10k-50k Employees,Gurgaon/Gurugram +95 more
+Valeo,4.1,1k,Auto Components,5k-10k Employees,Paris +19 more
+Aditya Birla Health Insurance Co,3.9,1k,Insurance,1k-5k Employees,Mumbai +191 more
+FDC,4.1,989,Pharma,5k-10k Employees,Mumbai +99 more
+Paytm Payments Bank,4.0,1k,FinTech,1k-5k Employees,Noida +110 more
+Tietoevry,4.3,996,IT Services & Consulting,1k-5k Employees,Helsinki +9 more
+BVG India,4.0,989,Facility Management Services,50k-1 Lakh Employees,Pune +96 more
+Health Care Global Enterprises,4.2,991,Healthcare,5k-10k Employees,Bangalore/Bengaluru +41 more
+Best Sellers,4.2,987,Fashion & Textile,501-1k Employees,Brande +80 more
+Goldman Sachs,3.7,1k,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,New York +19 more
+Suryoday Small Finance Bank,4.1,994,Banking,5k-10k Employees,Mumbai +158 more
+VMware Software,4.4,1k,Software Product,5k-10k Employees,Palo Alto +17 more
+Sheenlac Paints,4.6,1.1k,Chemicals,501-1k Employees,Chennai +147 more
+Burger King,4.0,986,Hospitality,5k-10k Employees,Miami +96 more
+DISH TV,3.6,965,Broadcasting,201-500 Employees,Noida +138 more
+AGS Transact Technologies,3.5,975,FinTech,1k-5k Employees,Mumbai +103 more
+SKF,4.0,979,Auto Components,1k-5k Employees,Gothenburg +64 more
+Foxconn,4.2,989,Electronics Manufacturing,10k-50k Employees,Taipei +40 more
+Oil And Natural Gas Corporation,4.3,981,Oil & Gas,10k-50k Employees,Delhi/NCR +65 more
+Fidelity National Financial,3.8,967,Financial Services,1k-5k Employees,Bangalore Rural +10 more
+Wheelseye Technology,3.7,971,Logistics,1k-5k Employees,Gurgaon +182 more
+DENSO,4.2,964,Auto Components,1k-5k Employees,Kariya +35 more
+Sansera Engineering,4.2,963,Auto Components,1k-5k Employees,Bangalore/Bengaluru +23 more
+Xyz Company,3.8,1k,Financial Services,51-200 Employees (Global),Mumbai +93 more
+Apco Infratech,3.9,952,Engineering & Construction,1k-5k Employees,Lucknow +73 more
+ManpowerGroup,3.9,968,Recruitment,50k-1 Lakh Employees,New Delhi +122 more
+SAI Life Sciences,3.9,973,Pharma,1k-5k Employees,Hyderabad +16 more
+Clover Infotech,3.7,972,IT Services & Consulting,1k-5k Employees,Mumbai +17 more
+Tata 1mg,3.7,969,Internet,1k-5k Employees,Gurgaon +51 more
+Shriram Pistons & Rings,4.1,951,Auto Components,1k-5k Employees,Delhi/NCR +53 more
+ANZ Banking Group,4.2,953,Financial Services,5k-10k Employees,Melbourne +17 more
+QualityKiosk Technologies,3.7,957,IT Services & Consulting,1k-5k Employees,Mumbai +16 more
+Dixon Technologies,4.2,954,Electronics Manufacturing,1k-5k Employees,Noida +34 more
+Gujarat Fluorochemicals,4.1,952,Chemicals,1k-5k Employees,Noida +24 more
+Schindler,4.0,968,Industrial Machinery,5k-10k Employees,Pune +62 more
+Fresenius Kabi,4.2,947,Pharma,1k-5k Employees,Pune +59 more
+Atul,4.0,944,Chemicals,1k-5k Employees,Valsad +54 more
+Nexa,4.1,944,Automobile,1k-5k Employees,Delhi/NCR +186 more
+Vibgyor High School,3.8,954,Education & Training,1k-5k Employees,Mumbai +28 more
+The Jaypee Group,3.9,938,Engineering & Construction,10k-50k Employees,Noida +94 more
+K12 Techno Services,3.0,959,EdTech,1k-5k Employees,Bangalore/Bengaluru +32 more
+Amneal Pharmaceuticals,4.3,956,Pharma,5k-10k Employees,Bridgewater +26 more
+Vestas,4.3,945,Power,1k-5k Employees,Aarhus +43 more
+EOSGlobe,3.1,948,BPO,1k-5k Employees,Thane +18 more
+Hitachi Astemo,4.1,946,Auto Components,1k-5k Employees,Neemrana +32 more
+Altisource,3.7,930,Real Estate,1k-5k Employees,Bangalore/Bengaluru +9 more
+FOCUS EDUMATICS,3.4,943,EdTech,5k-10k Employees,Bangalore/Bengaluru +19 more
+Amara Raja Energy & Mobility,4.3,949,Auto Components,5k-10k Employees,Tirupati +69 more
+Tata AutoComp Systems,3.9,960,Auto Components,1k-5k Employees,Pune +33 more
+iSON Xperiences,3.6,944,BPO,5k-10k Employees,Lagos +34 more
+Luminous Power Technologies,4.2,932,Consumer Electronics & Appliances,1k-5k Employees,Gurgaon/Gurugram +110 more
+Indegene,3.6,955,Analytics & KPO,1k-5k Employees,Princeton +23 more
+Wistron,3.9,947,Electronics Manufacturing,1k-5k Employees,Taipei +20 more
+CreditAccess Grameen,4.3,937,NBFC,10k-50k Employees,Bangalore/Bengaluru +256 more
+TELUS International Philippines,3.8,958,IT Services & Consulting,1k-5k Employees,Pasig City +15 more
+Infogain,3.6,943,IT Services & Consulting,1k-5k Employees,Los Gatos +17 more
+Patanjali Foods,4.0,935,FMCG,5k-10k Employees,Mumbai +152 more
+GAIL,4.5,934,Oil & Gas,1k-5k Employees,Delhi/NCR +94 more
+Medhaj Techno Concept,4.2,927,Other,1k-5k Employees,Lucknow +141 more
+Tenneco,3.8,924,Auto Components,1k-5k Employees,Lake Forest +35 more
+Jio Platforms,3.7,975,IT Services & Consulting,5k-10k Employees,Navi Mumbai +70 more
+IndiaFirst Life Insurance,4.1,941,Insurance,1k-5k Employees,Mumbai +183 more
+Infinx,3.6,940,Software Product,1k-5k Employees,Mumbai +28 more
+Videocon d2h,3.9,909,Internet,501-1k Employees,Mumbai +131 more
+Kantar,3.6,942,Analytics & KPO,5k-10k Employees,London +34 more
+Johnson Lifts,4.1,927,Industrial Machinery,5k-10k Employees,Chennai +68 more
+Continental Automotive Components,4.2,940,Auto Components,5k-10k Employees,Lower Saxony +19 more
+CSB Bank,3.4,938,Banking,1k-5k Employees,Thrissur/Trichur +154 more
+Eaton Corporation,4.0,935,Power,5k-10k Employees,Cleveland +19 more
+AIIMS,4.2,926,Healthcare,10k-50k Employees,Delhi/NCR +53 more
+Consolidated Contractors,4.5,900,Engineering & Construction,1k-5k Employees,Marousi +51 more
+Wind World,3.9,919,Power,5k-10k Employees,Mumbai +63 more
+Bajaj Motors,3.9,903,Auto Components,501-1k Employees,Gurgaon +66 more
+PharmEasy,3.7,912,Internet,1k-5k Employees,Mumbai +56 more
+Piaggio,3.7,910,Automobile,1k-5k Employees,Pontedera +71 more
+Godrej Properties,3.7,937,Real Estate,1k-5k Employees,Mumbai +27 more
+Mahindra CIE Automotive,3.8,909,Auto Components,1k-5k Employees,Mumbai +37 more
+Bharat Sanchar Nigam,4.0,899,Telecom,50k-1 Lakh Employees,Delhi/NCR +214 more
+TE Connectivity,4.1,920,Industrial Machinery,1k-5k Employees,Schaffhausen +14 more
+PNB Housing Finance,3.9,916,Financial Services,1k-5k Employees,Delhi/NCR +114 more
+Intertek,3.8,906,Other,1k-5k Employees,London +83 more
+Jaquar,4.1,915,Building Material,10k-50k Employees,Gurgaon +86 more
+Zf Rane Automotive,4.1,909,Auto Components,1k-5k Employees,Chennai +45 more
+JW Marriott,4.1,896,Hospitality,1k-5k Employees,Bethesda +40 more
+Godrej Consumer Products,4.2,908,FMCG,1k-5k Employees,Mumbai +111 more
+Automotive Manufacturers,4.2,908,Automobile,10k-50k Employees,Mumbai +121 more
+TUV SUD,4.0,907,Other,1k-5k Employees,Munich +98 more
+Gannon Dunkerley & Co.,3.9,889,Engineering & Construction,1k-5k Employees,Mumbai +67 more
+Mondelez International,4.4,920,Food Processing,1k-5k Employees,Greater Chicago Area +140 more
+IIFL SAMASTA,4.1,910,NBFC,10k-50k Employees,Bangalore / Bengaluru +272 more
+Capri Global Capital,3.7,908,NBFC,1k-5k Employees,Mumbai +216 more
+Worley,4.1,902,Engineering & Construction,5k-10k Employees,North Sydney +44 more
+JSW Cement,4.1,898,Building Material,1k-5k Employees,Mumbai +111 more
+Sahara India Pariwar,3.8,889,Broadcasting,5k-10k Employees,Lucknow +225 more
+Apexon,3.4,908,IT Services & Consulting,1k-5k Employees,Santa Clara +15 more
+Adobe,4.1,916,Software Product,5k-10k Employees,San Jose +14 more
+Slk Software Services,3.5,898,IT Services & Consulting,1k-5k Employees,Bangalore/Bengaluru +11 more
+Spencer's Retail,3.9,894,Retail,1k-5k Employees,Kolkata +57 more
+Karma Ayurveda,4.5,880,Healthcare,51-200 Employees,New Delhi +4 more
+Punj Lloyd,4.4,872,Engineering & Construction,5k-10k Employees,Gurgaon/Gurugram +70 more
+Dhoot Transmission,3.7,882,Power,201-500 Employees,Mumbai +30 more
+Sonata Software,3.7,900,IT Services & Consulting,1k-5k Employees,Bangalore/Bengaluru +12 more
+Petrofac,4.4,875,Oil & Gas,1k-5k Employees,Jermyn Street +38 more
+Morningstar,3.9,912,Financial Services,1k-5k Employees,Chicago +16 more
+Siemens Gamesa Renewable Power Private Limited,4.1,882,Power,1k-5k Employees,Chennai +57 more
+R Systems International,3.4,895,IT Services & Consulting,1k-5k Employees,El Dorado Hills +15 more
+Hinduja Leyland Finance,4.1,889,NBFC,1k-5k Employees,Chennai +230 more
+GAO Tek,4.5,1k,Electrical Equipment,201-500 Employees,New York +33 more
+Hatsun Agro Product,4.0,894,Food Processing,5k-10k Employees,Chennai +101 more
+Shriram Life Insurance,3.8,884,Insurance,1k-5k Employees,Hyderabad/Secunderabad +223 more
+Urban Company,3.6,893,Internet,1k-5k Employees,Gurgaon +52 more
+Coca-Cola Company,4.3,874,Beverage,5k-10k Employees,Atlanta +166 more
+Tikona Infinet,3.7,871,Telecom,1k-5k Employees,Mumbai +46 more
+NSH,3.6,872,Engineering & Construction,501-1k Employees,Al Jubail +44 more
+Viraj Profiles,3.9,864,Iron & Steel,1k-5k Employees,Mumbai +21 more
+Serco,4.4,858,Analytics & KPO,5k-10k Employees,Hook +39 more
+Nielsen,3.8,870,Analytics & KPO,1k-5k Employees,New York City +72 more
+HPCL-Mittal Energy Limited,4.3,864,Petrochemicals,1k-5k Employees,Noida +26 more
+Episource,3.9,873,IT Services & Consulting,1k-5k Employees,Gardena +13 more
+Decathlon,4.0,890,Retail,1k-5k Employees,Lille +63 more
+Podar International School,4.3,878,Education & Training,5k-10k Employees,Mumbai +110 more
+Thyrocare Technologies,3.6,875,Healthcare,1k-5k Employees,Mumbai +62 more
+Amazon Logistics,4.3,880,Logistics,51-200 Employees,Hyderabad / Secunderabad +122 more
+RBL FinServe,4.2,871,Financial Services,5k-10k Employees,Mumbai +283 more
+iQor Global Services,3.5,856,BPO,1k-5k Employees,Saint Petersburg +50 more
+Atos Global IT Solutions And Services,4.0,861,IT Services & Consulting,5k-10k Employees,Navi Mumbai +17 more
+OpenText Technologies,3.8,881,Software Product,1k-5k Employees,Waterloo +10 more
+Airtel Payments Bank,4.2,875,FinTech,501-1k Employees,Delhi/NCR +229 more
+Arvind Lifestyle Brands,4.1,856,Retail,201-500 Employees,Bangalore / Bengaluru +85 more
+Strides Pharma,3.9,853,Pharma,201-500 Employees,Bangalore/Bengaluru +30 more
+Bajaj Housing Finance,3.8,871,NBFC,1k-5k Employees,Pune +123 more
+JK Lakshmi Cement,3.9,864,Building Material,1k-5k Employees,Delhi/NCR +115 more
+Kirloskar Oil Engines,4.2,863,Industrial Machinery,1k-5k Employees,Pune +87 more
+Mando Automotive,3.9,851,Auto Components,1k-5k Employees,Kanchipuram +18 more
+Sunknowledge Services,3.9,874,BPO,1k-5k Employees,New York +11 more
+iMerit,3.8,866,Software Product,1k-5k Employees,Kolkata +10 more
+MDIndia Health Insurance TPA,3.9,860,Insurance,5k-10k Employees,Pune +78 more
+PNC Infratech,4.0,854,Engineering & Construction,5k-10k Employees,Delhi/NCR +75 more
+Sri Chaitanya Educational Institutions,3.9,849,Education & Training,50k-1 Lakh Employees,Hyderabad/Secunderabad +85 more
+FastInfo,4.3,847,EdTech,501-1k Employees,Kolkata +7 more
+Shubham Housing Development Finance,4.0,856,NBFC,1k-5k Employees,Gurgaon +114 more
+Altimetrik,3.8,875,IT Services & Consulting,1k-5k Employees,Southfield +10 more
+V5 Global Services,3.9,862,Recruitment,10k-50k Employees,Delhi/NCR +159 more
+Kendriya Vidyalaya Sangathan,4.4,841,Education & Training,10k-50k Employees,Delhi/NCR +208 more
+Parexel International,4.0,854,Clinical Research,1k-5k Employees,Massachusetts +12 more
+Ion Exchange India,3.9,850,Waste Management,1k-5k Employees,Mumbai +91 more
+Onward Technologies Inc,3.2,847,Software Product,1k-5k Employees,Mumbai +61 more
+BGR Energy Systems,3.9,845,Engineering & Construction,1k-5k Employees,Chennai +49 more
+Jubilant Pharmova,4.0,839,Pharma,1k-5k Employees,Noida +53 more
+Aarvee Associates,4.0,843,Engineering & Construction,1k-5k Employees,Hyderabad/Secunderabad +127 more
+Barbeque Nation,4.0,842,Hospitality,5k-10k Employees,Bangalore/Bengaluru +71 more
+NTT DATA Business Solutions,3.8,861,IT Services & Consulting,1k-5k Employees,Bangalore / Bengaluru +24 more
+DCM Shriram,4.3,837,Chemicals,5k-10k Employees,Delhi/NCR +76 more
+Volkswagen,4.2,833,Automobile,1k-5k Employees,Mumbai +95 more
+Novo Nordisk,4.1,844,Pharma,1k-5k Employees,New York City +65 more
+Muthoot Microfin,4.5,837,NBFC,10k-50k Employees,Ernakulam +247 more
+Rockman Industries,3.9,829,Auto Components,1k-5k Employees,Delhi/NCR +30 more
+ReNew,4.3,858,Power,1k-5k Employees,Gurugram +79 more
+Intel,4.3,858,Semiconductors,10k-50k Employees,Santa Clara +33 more
+Jacobs Engineering Group,4.1,848,Engineering & Construction,1k-5k Employees,Dallas +36 more
+The Ramco Cements,4.3,832,Building Material,1k-5k Employees,Chennai +90 more
+Edelweiss Tokio Life Insurance,3.8,830,Insurance,1k-5k Employees,Mumbai +115 more
+XcelServ Solutions,4.6,816,IT Services & Consulting,501-1k Employees,Las Vegas +35 more
+Softenger,4.3,826,IT Services & Consulting,501-1k Employees,Pune +30 more
+Chetu,3.3,850,Software Product,1k-5k Employees,Sunrise +7 more
+Evision Technoserve,4.7,813,Recruitment,51-200 Employees,Delhi/NCR +63 more
+Nippon Paint India,4.1,845,Chemicals,1k-5k Employees,Osaka +122 more
+Medplus(optival Health Solutions),3.6,838,501-1k Employees,Fortune India 500,Hyderabad +85 more
+OM Logistics,4.1,833,Logistics,1k-5k Employees,Delhi/NCR +102 more
+Aerial Telecom Solutions,4.5,819,Telecom,5k-10k Employees,Mohali +86 more
+Lemon Tree Hotels,4.2,819,Hospitality,5k-10k Employees,Delhi/NCR +66 more
+Power Grid Corporation of India,4.4,827,Power,5k-10k Employees,Gurgaon/Gurugram +183 more
+Pristyn Care,3.7,840,Healthcare,1k-5k Employees,Delhi +27 more
+1point1 Solutions,3.4,819,BPO,5k-10k Employees,Navi Mumbai +14 more
+Vertex Customer Solutions,3.6,802,IT Services & Consulting,5k-10k Employees,Panchkula +32 more
+Vistaar Finance,4.2,808,NBFC,1k-5k Employees,Bengaluru/Bangalore +166 more
+Provana,3.7,830,IT Services & Consulting,1k-5k Employees,Lisle +6 more
+Hyundai Mobis,3.9,824,Auto Components,1k-5k Employees,Kanchipuram +43 more
+V2 Retail,3.6,805,Retail,1k-5k Employees,Delhi/NCR +88 more
+Ceasefire Industries,3.3,800,Industrial Machinery,1k-5k Employees,Noida +69 more
+Capacit'e Infraprojects,3.6,805,Engineering & Construction,1k-5k Employees,Mumbai +32 more
+TechnipFMC,4.0,809,Industrial Machinery,1k-5k Employees,Paris +40 more
+Unicharm,4.2,809,Beauty & Personal Care,1k-5k Employees,Mita +144 more
+Brillio,3.6,821,IT Services & Consulting,1k-5k Employees,Edison +12 more
+ThyssenKrupp Industries India,4.2,804,Industrial Machinery,1k-5k Employees,Pune +44 more
+Nykaa,3.5,811,Internet,1k-5k Employees,Mumbai +81 more
+Kotak Mahindra Prime,4.0,807,NBFC,5k-10k Employees,Mumbai +124 more
+GEP Worldwide,3.8,832,IT Services & Consulting,1k-5k Employees,Clark +10 more
+Hindustan Zinc,4.0,803,Metals & Mining,1k-5k Employees,Udaipur +28 more
+Qualcomm,4.0,822,Semiconductors,10k-50k Employees,San Diego +15 more
+Happiest Minds Technologies,3.9,815,IT Services & Consulting,1k-5k Employees,Bangalore +14 more
+ZF Steering Gear,3.8,811,Auto Components,501-1k Employees,Pune +22 more
+More Supermarket,3.8,805,Retail,10k-50k Employees,Mumbai +126 more
+TEKsystems,3.5,804,IT Services & Consulting,1k-5k Employees,Hanover +14 more
+Dana Anand,4.2,802,Auto Components,1k-5k Employees,Delhi/NCR +38 more
+CarDekho,3.7,798,Internet,1k-5k Employees,Jaipur +68 more
+Hathway,3.7,796,Broadcasting,501-1k Employees,Mumbai +49 more
+CenturyPly,4.0,793,Furniture & Furnishing,1k-5k Employees,Kolkata +102 more
+Colliers International,4.0,796,Real Estate,1k-5k Employees,Ontario +34 more
+Intex Technologies,3.7,784,Consumer Electronics & Appliances,1k-5k Employees,Delhi/NCR +71 more
+Acuity Knowledge Partners,3.5,814,Financial Services,1k-5k Employees,London +12 more
+Karur Vysya Bank,3.7,802,Banking,5k-10k Employees,Karur +140 more
+Stanza Living,3.1,795,Internet,501-1k Employees,Delhi +30 more
+Tube Investments of India,4.1,792,Engineering & Construction,1k-5k Employees,Chennai +55 more
+TK Elevator,4.1,791,Industrial Machinery,1k-5k Employees,Essen +65 more
+Reliance AJIO,3.8,791,Internet,1k-5k Employees,Bengaluru +189 more
+United Alliance Technology,4.9,777,No information available,No information available,No information available
+Aditya Birla Finance,3.9,804,NBFC,1k-5k Employees,Mumbai +152 more
+TradeIndia (Infocom Network Private Limited),3.4,793,Internet,1k-5k Employees,Noida +39 more
+Pizza Hut,4.0,789,Hospitality,1k-5k Employees,Plano +104 more
+Bosch Chassis Systems,4.2,778,Auto Components,1k-5k Employees,Gerlingen +21 more
+Feedback Infrastructure Services,3.5,784,Engineering & Construction,5k-10k Employees,Gurgaon/Gurugram +121 more
+Apotex Research,4.2,782,Pharma,201-500 Employees,Brantford +13 more
+Imperial Auto Industries,3.8,795,Auto Components,1k-5k Employees,Faridabad +34 more
+Rashmi Metaliks,3.6,793,Iron & Steel,1k-5k Employees,Kolkata +27 more
+Secure Meters,4.1,784,Electronics Manufacturing,1k-5k Employees,Udaipur +69 more
+Spandana Sphoorty Financial,3.8,776,NBFC,10k-50k Employees,Hyderabad/Secunderabad +228 more
+Syngenta,4.3,790,Agriculture,1k-5k Employees,Basel +140 more
+Kirloskar Brothers,4.1,789,Industrial Machinery,1k-5k Employees,Pune +58 more
+Colgate Palmolive,4.2,793,FMCG,1k-5k Employees,New York +100 more
+Diageo,4.0,789,Beverage,1k-5k Employees,London +84 more
+Sundaram Finance,4.2,784,NBFC,1k-5k Employees,Chennai +208 more
+Fidelity Investments,4.3,799,Financial Services,5k-10k Employees,Boston +16 more
+Genius Consultants,3.9,793,Recruitment,201-500 Employees,Kolkata +77 more
+H.G. Infra Engineering,4.4,797,Engineering & Construction,1k-5k Employees,Jaipur +78 more
+Ahluwalia Contracts India,4.1,784,Engineering & Construction,1k-5k Employees,Delhi/NCR +49 more
+Kinara Capital,4.5,807,FinTech,1k-5k Employees,Bangalore +108 more
+Pricol,4.0,776,Auto Components,1k-5k Employees,Coimbatore +26 more
+Dassault Systemes,4.0,780,Software Product,5k-10k Employees,Velizy-villacoublay +8 more
+PayPal,3.9,803,FinTech,1k-5k Employees,San Jose +12 more
+Orchids International School,3.1,784,Education & Training,1k-5k Employees,Nasik/Nashik +26 more
+Nilkamal,3.9,778,Furniture & Furnishing,1k-5k Employees,Mumbai +95 more
+Tata Chemicals,4.2,765,Chemicals,1k-5k Employees,Mumbai +79 more
+Sundaram Clayton,4.1,775,Auto Components,1k-5k Employees,Chennai +24 more
+Shalby Hospitals,4.6,786,Healthcare,1k-5k Employees,Ahmedabad +24 more
+CALIBEHR,4.0,773,Recruitment,10k-50k Employees,Mumbai +127 more
+VIP Industries,4.0,772,Retail,1k-5k Employees,Mumbai +87 more
+Incedo,3.4,778,IT Services & Consulting,1k-5k Employees,Iselin +10 more
+FLSmidth,3.7,775,Industrial Machinery,1k-5k Employees,Copenhagen +19 more
+JTEKT,4.2,776,Auto Components,1k-5k Employees,Osaka +22 more
+Gmmco,4.2,756,Industrial Machinery,1k-5k Employees,Chennai +79 more
+Visionet Systems,3.2,766,IT Services & Consulting,1k-5k Employees,Cranbury +12 more
+eClinicalWorks,3.9,770,Software Product,1k-5k Employees,Westborough +13 more
+Fusion Microfinance,4.1,769,NBFC,10k-50k Employees,Delhi +209 more
+Mahindra First Choice Wheels,3.8,760,Internet,1k-5k Employees,Mumbai +110 more
+Air India,4.1,772,Aviation,10k-50k Employees,Delhi/NCR +53 more
+SLK Global Services,3.9,754,BPO,1k-5k Employees,Dallas +9 more
+Egis  India Consulting Engineers,4.2,754,Engineering & Construction,1k-5k Employees,Gurgaon/Gurugram +100 more
+AstraZeneca,4.2,759,Pharma,501-1k Employees,Cambridge +41 more
+Perfetti Van Melle,4.3,757,Food Processing,1k-5k Employees,Lainate +125 more
+Nirma,4.3,750,FMCG,10k-50k Employees,Ahmedabad +55 more
+MakeMyTrip,3.7,764,Internet,5k-10k Employees,Gurgaon +38 more
+KIMS Hospital,4.1,763,Healthcare,1k-5k Employees,Hyderabad/Secunderabad +41 more
+Next Education India,3.8,761,EdTech,1k-5k Employees,Hyderabad/Secunderabad +81 more
+VeeTechnologies,3.8,757,IT Services & Consulting,1k-5k Employees,New York +27 more
+Pacific BPO,3.5,774,BPO,1k-5k Employees,Noida +16 more
+LOREAL,4.1,756,Beauty & Personal Care,1k-5k Employees,Clichy +84 more
+Caratlane Trading,4.3,765,Retail,1k-5k Employees,Chennai +55 more
+Hikal,4.0,752,Pharma,1k-5k Employees,Mumbai +18 more
+MAHLE ANAND Filter Systems,4.2,748,Auto Components,1k-5k Employees,Stuttgart +25 more
+Teva Pharmaceuticals,4.2,758,Pharma,1k-5k Employees,Dublin +33 more
+INDO-MIM,4.3,743,Industrial Machinery,1k-5k Employees,Bangalore/Bengaluru +20 more
+Birla Corporation,4.2,754,Building Material,5k-10k Employees,Kolkata +113 more
+HFCL,4.2,744,Hardware & Networking,1k-5k Employees,Delhi/NCR +94 more
+Capital Numbers Infotech,4.7,741,IT Services & Consulting,501-1k Employees,Kolkata +16 more
+Vedanta Aluminium,3.9,756,Metals & Mining,1k-5k Employees,Jharsuguda +31 more
+Fluor Corporation,4.3,734,No information available,No information available,No information available
+Prodapt,3.8,759,IT Services & Consulting,1k-5k Employees,Chennai +11 more
+C&S Electric,4.0,736,Electrical Equipment,5k-10k Employees,Delhi/NCR +49 more
+ICICI Prudential Mutual Fund,3.8,755,Financial Services,1k-5k Employees,New Delhi +137 more
+Webhelp,3.8,751,BPO,1k-5k Employees,Paris +14 more
+SitusAMC,3.3,743,Software Product,1k-5k Employees,Gurgaon / Gurugram +17 more
+CADD Centre Training Services,4.1,733,Education & Training,1k-5k Employees,Chennai +129 more
+Zoho,4.3,769,Software Product,10k-50k Employees,Bangalore / Bengaluru +25 more
+Pernod Ricard,3.9,736,Beverage,1k-5k Employees,Bangalore / Bengaluru +96 more
+Metropolis Healthcare,4.1,735,Healthcare,1k-5k Employees,Bangalore / Bengaluru +83 more
+Future Focus Infotech,3.6,730,IT Services & Consulting,5k-10k Employees,Bangalore / Bengaluru +55 more
+Uber,4.2,750,Internet,1k-5k Employees,Bangalore / Bengaluru +44 more
+Patra Corporation,3.8,742,BPO,1k-5k Employees,Bangalore / Bengaluru +14 more
+Troikaa Pharmaceuticals,3.8,737,Pharma,1k-5k Employees,Bangalore / Bengaluru +68 more
+Mu Sigma,2.8,778,Analytics & KPO,1k-5k Employees,Bangalore / Bengaluru +11 more
+Better.com,3.0,723,Financial Services,1k-5k Employees,Gurgaon / Gurugram +5 more
+Air India Sats Airport Services,3.8,740,Aviation,1k-5k Employees,Bangalore / Bengaluru +33 more
+Orion Edutech,3.3,718,EdTech,5k-10k Employees,Bangalore / Bengaluru +106 more
